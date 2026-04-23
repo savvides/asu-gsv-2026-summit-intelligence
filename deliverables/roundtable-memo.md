@@ -109,3 +109,9 @@ I'm working on a public playbook for EdTech pilots in higher education. Evaluati
 
 If the ideas in this memo hold up, the playbook should make it easier for any institution to run a structured pilot, and easier for any company to know what "pilot-ready" actually means.
 
+---
+
+**Philippos Savvides**
+Head of ScaleU
+philippos.savvides@asuep.org
+ScaleU.org
