@@ -113,7 +113,7 @@ If the ideas in this memo hold up, the playbook should make it easier for any in
 
 ## A simple ask
 
-If this matched your experience, or if it missed something important, I'd like to hear about it. Reply to this email.
+If this matched your experience, or if it missed something important, I'd like to hear about it.
 
 Philippos Savvides
 philippos.savvides@asuep.org
