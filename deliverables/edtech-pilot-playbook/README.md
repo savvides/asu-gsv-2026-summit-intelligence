@@ -198,7 +198,7 @@ For founders: here's what matters in the evaluation, ranked by what actually dri
 
 ## About This Playbook
 
-This playbook is maintained by [Philippos Savvides](https://linkedin.com/in/savvides), Director of Venture Acceleration at ASU Enterprise Partners, where he leads [ScaleU](https://scaleu.org), ASU's EdTech validation program.
+This playbook is maintained by [Philippos Savvides](https://linkedin.com/in/savvides), Head of [ScaleU](https://scaleu.org), ASU's EdTech validation program.
 
 ScaleU has reviewed 4,000+ EdTech companies and run 30+ paid institutional pilots. The evaluation criteria, pilot methodology, and institutional insights in this playbook are drawn from that experience.
 
