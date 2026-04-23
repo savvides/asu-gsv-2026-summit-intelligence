@@ -1,0 +1,10 @@
+.DS_Store
+.venv/
+*.mp3
+*.xlsx
+*.csv
+*.pptx
+*.gdoc
+*.gsheet
+__pycache__/
+*.pyc
