@@ -93,7 +93,7 @@ The room was honest about the limits.
 
 For context, here's what the process looks like on our side.
 
-ScaleU runs a needs assessment across 17 colleges, then uses a structured intake form covering security, accessibility, stage of development, and the specific problem being solved. A team of five evaluates companies before anyone else at the university sees them. In four years, we've run more than 25 pilots.
+ScaleU runs a needs assessment across 17 colleges, then uses a structured intake form covering security, accessibility, stage of development, and the specific problem being solved. A team of five evaluates companies before anyone else at the university sees them. We've built a track record of running pilots across a wide range of EdTech categories.
 
 We actively seek out early-stage companies, not because they're cheap, but because they're willing to co-develop and be real partners. They'll adjust the product. They'll sit in the room. They'll iterate.
 
