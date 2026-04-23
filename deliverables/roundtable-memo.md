@@ -5,7 +5,7 @@ April 15, 2026 | Presented by Philippos Savvides, ASU ScaleU
 
 ---
 
-Thank you to the 15 of you who stayed, pushed back, and shared real stories in this session. This memo is my honest attempt to capture what was said -- not to sell anything, but to give everyone in the room a shared artifact we can build on.
+Thank you to everyone who stayed, pushed back, and shared real stories in this session. It was the last session of the summit, and the fact that you were still in the room says something about how much this topic matters. This memo is my honest attempt to capture what was said -- not to sell anything, but to give everyone in the room a shared artifact we can build on.
 
 What follows is organized by theme, not by chronology. Quotes are lightly edited for clarity and anonymized by role.
 
