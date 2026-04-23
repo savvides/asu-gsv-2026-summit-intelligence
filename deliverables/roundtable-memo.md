@@ -117,4 +117,3 @@ If this matched your experience, or if it missed something important, I'd like t
 
 Philippos Savvides
 philippos.savvides@asuep.org
-ScaleU.org
