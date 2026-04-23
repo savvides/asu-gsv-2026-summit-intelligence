@@ -8,7 +8,7 @@ April 2026
 
 ## How to Use This Report
 
-This report synthesizes 44 sessions from the ASU+GSV 2026 Summit, drawn from video transcripts and meeting notes across four days of programming. It is organized by theme, not chronology.
+This report synthesizes sessions from the ASU+GSV 2026 Summit, drawn from video transcripts and meeting notes across four days of programming. It is organized by theme, not chronology.
 
 **If you're an institutional leader** looking for technology trends affecting your campus, start with Themes 1-3.
 
@@ -33,7 +33,7 @@ The ASU+GSV Summit 2026 ran April 12-15 at the Manchester Grand Hyatt in San Die
 
 **Key tracks:** AI & Frontier Tech, Building & Investing in EdTech, Career-Connected Learning & Pathways, THE FORCE (Workforce), The Forum (Policy & Civics), Global Higher Education, StarTrack, GSV Cup, and Apple Education.
 
-This report synthesizes **44 sessions** selected for their relevance to EdTech innovation, institutional strategy, and workforce readiness. The sessions were transcribed from publicly available summit recordings and analyzed by theme.
+This report synthesizes sessions selected for their relevance to EdTech innovation, institutional strategy, and workforce readiness. The sessions were transcribed from publicly available summit recordings and analyzed by theme.
 
 ---
 
