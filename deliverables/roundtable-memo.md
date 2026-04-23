@@ -109,11 +109,3 @@ I'm working on a public playbook for EdTech pilots in higher education. Evaluati
 
 If the ideas in this memo hold up, the playbook should make it easier for any institution to run a structured pilot, and easier for any company to know what "pilot-ready" actually means.
 
----
-
-## A simple ask
-
-If this matched your experience, or if it missed something important, I'd like to hear about it.
-
-Philippos Savvides
-philippos.savvides@asuep.org
