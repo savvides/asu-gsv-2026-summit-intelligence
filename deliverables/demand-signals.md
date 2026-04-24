@@ -1,16 +1,3 @@
----
-stylesheet: /Users/philippossavvides/My Drive/asu-gsv-presentation/private/asu-brand.css
-pdf_options:
-  displayHeaderFooter: true
-  footerTemplate: '<div style="width:100%;font-family:Arial,sans-serif;font-size:8px;color:#747474;text-align:center;padding:0 40px;">Philippos Savvides · Head of ScaleU · philippos.savvides@asuep.org · ScaleU.org</div>'
-  headerTemplate: '<div></div>'
-  margin:
-    top: 25mm
-    bottom: 25mm
-    left: 25mm
-    right: 25mm
----
-
 # Why Education Leaders Are Switching
 
 **Demand Signals from Five ASU+GSV 2026 Summit Panels**
