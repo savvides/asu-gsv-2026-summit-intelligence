@@ -19,6 +19,8 @@ Transcripts, analysis, and session data from the ASU+GSV Summit 2026 (April 12-1
 
 **If you're short on time:** Read the [Summit Intelligence Report](synthesis/summit-intelligence-report.md). It's a 15-minute read covering the 5 biggest signals from the summit.
 
+**If you want to understand buyer behavior:** Read [Why Education Leaders Are Switching](deliverables/demand-signals.md). It analyzes what's actually driving adoption decisions, drawn from five summit panels.
+
 **If you want to explore:** Browse the [Full Session Index](schedule/full-session-index.md). Sessions with a 🎙️ have full transcripts. Sessions with ⭐ were flagged as ScaleU-relevant.
 
 **If you want raw data:** The `transcripts/` directory has sessions with YAML frontmatter (speakers, track, tags, dates, YouTube links). The `video-metadata.json` file has structured data for all transcribed sessions.
