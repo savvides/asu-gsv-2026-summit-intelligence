@@ -25,6 +25,8 @@ Transcripts, analysis, and session data from the ASU+GSV Summit 2026 (April 12-1
 
 **If you want raw data:** The `transcripts/` directory has sessions with YAML frontmatter (speakers, track, tags, dates, YouTube links). The `video-metadata.json` file has structured data for all transcribed sessions.
 
+**If you want to run the tools:** The `tools/` directory has Python scripts for transcription and enrichment. Install dependencies with `pip install -r tools/requirements.txt`. Requires `ffmpeg` for audio processing and an `OPENAI_API_KEY` environment variable.
+
 ## About
 
 Prepared by Philippos Savvides, Head of ScaleU.
