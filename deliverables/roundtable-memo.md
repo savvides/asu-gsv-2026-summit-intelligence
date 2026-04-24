@@ -1,3 +1,16 @@
+---
+stylesheet: /Users/philippossavvides/My Drive/asu-gsv-presentation/private/asu-brand.css
+pdf_options:
+  displayHeaderFooter: true
+  footerTemplate: '<div style="width:100%;font-family:Arial,sans-serif;font-size:8px;color:#747474;text-align:center;padding:0 40px;">Philippos Savvides · Head of ScaleU · philippos.savvides@asuep.org · ScaleU.org</div>'
+  headerTemplate: '<div></div>'
+  margin:
+    top: 25mm
+    bottom: 25mm
+    left: 25mm
+    right: 25mm
+---
+
 # What If Universities Stopped Running the Same Pilot Twice?
 
 **Roundtable Synthesis -- ASU+GSV Summit 2026**
@@ -109,9 +122,3 @@ I'm working on a public playbook for EdTech pilots in higher education. Evaluati
 
 If the ideas in this memo hold up, the playbook should make it easier for any institution to run a structured pilot, and easier for any company to know what "pilot-ready" actually means.
 
----
-
-**Philippos Savvides**
-Head of ScaleU
-philippos.savvides@asuep.org
-ScaleU.org

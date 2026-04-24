@@ -1,3 +1,16 @@
+---
+stylesheet: /Users/philippossavvides/My Drive/asu-gsv-presentation/private/asu-brand.css
+pdf_options:
+  displayHeaderFooter: true
+  footerTemplate: '<div style="width:100%;font-family:Arial,sans-serif;font-size:8px;color:#747474;text-align:center;padding:0 40px;">Philippos Savvides · Head of ScaleU · philippos.savvides@asuep.org · ScaleU.org</div>'
+  headerTemplate: '<div></div>'
+  margin:
+    top: 25mm
+    bottom: 25mm
+    left: 25mm
+    right: 25mm
+---
+
 # ASU+GSV 2026 Summit Intelligence Report
 
 **Prepared by Philippos Savvides, Head of ScaleU**
@@ -191,9 +204,3 @@ Based on what I saw at the summit and my meetings:
 
 4. **The instructional design tools maturing.** AI-powered platforms for instructional designers are solving real workflow problems for faculty: course scaffolding, content migration across LMS platforms, FERPA-compliant deployment. This is the "make teachers' lives easier" category Hastings identified.
 
----
-
-**Philippos Savvides**
-Head of ScaleU
-philippos.savvides@asuep.org
-ScaleU.org
