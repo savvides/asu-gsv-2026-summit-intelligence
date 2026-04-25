@@ -39,17 +39,17 @@ This report synthesizes sessions selected for their relevance to EdTech innovati
 
 ## Executive Summary
 
-The 2026 ASU+GSV Summit made one thing clear: the debate has shifted from "will AI transform education" to "how fast, and who gets left behind."
+At the 2026 Summit, the debate had clearly shifted from "will AI transform education" to "how fast, and who gets left behind."
 
 **Five signals stood out:**
 
-1. **AI tutoring is crossing from novelty to necessity.** Reed Hastings argued that the classroom's "sage on the stage" model is the steam engine's power distribution system, and AI tutoring is the individual electric motor. Connor Zwick (Speak) reported 3-5x faster language acquisition with AI tutors. David Rogier (MasterClass) said an education equivalent to a 2-year MBA can now be delivered for $100. The consensus: individualized AI tutoring will become the default within 5 years, not as a replacement for human connection, but as a replacement for mass lecture.
+1. **AI tutoring is no longer experimental.** Reed Hastings argued that the classroom's "sage on the stage" model is the steam engine's power distribution system, and AI tutoring is the individual electric motor. Connor Zwick (Speak) reported 3-5x faster language acquisition with AI tutors. David Rogier (MasterClass) said an education equivalent to a 2-year MBA can now be delivered for $100. The consensus: individualized AI tutoring will become the default within 5 years. It replaces mass lecture, not human connection.
 
-2. **Assessment is the next crisis.** Multiple sessions surfaced the same problem: if students use AI to write, written assignments stop being reliable signals of understanding. Connor Zwick predicted "testing as a concept will feel extremely antiquated" within 5 years, replaced by continuous mastery measurement. A growing number of companies are building conversational assessment (oral exams via AI) as an alternative.
+2. **Assessment is the next crisis.** The same problem came up across sessions: if students use AI to write, written assignments stop being reliable signals of understanding. Connor Zwick predicted "testing as a concept will feel extremely antiquated" within 5 years, replaced by continuous mastery measurement. Several companies are now building conversational assessment (oral exams via AI) as an alternative.
 
-3. **Career navigation is being rebuilt from scratch.** The BrightBound panel revealed that families now pay $50,000 for career coaching, just as they did for college admissions. Julia Dixon (ESAI) is building "narrative intelligence" to help students tell their unique stories. Nick Gross (Find Your Grind) showed a 20% increase in student engagement with an ESSA Tier 2 study. Keely Cat-Wells (Making Space) is closing the disability employment gap, reporting that self-identification of disability doubled after a single employer engagement.
+3. **Career navigation is getting rebuilt.** The BrightBound panel revealed that families now pay $50,000 for career coaching, just as they did for college admissions. Julia Dixon (ESAI) is building "narrative intelligence" to help students tell their unique stories. Nick Gross (Find Your Grind) showed a 20% increase in student engagement with an ESSA Tier 2 study. Keely Cat-Wells (Making Space) is closing the disability employment gap, reporting that self-identification of disability doubled after a single employer engagement.
 
-4. **The speed of AI is outrunning institutions.** Austin from Gauntlet AI described completely rewriting curriculum every 10 weeks because AI changes that fast. Alpha School compresses a full day of academics into 2 hours of AI-assisted mastery learning, freeing afternoons for project-based life skills. Multiple speakers noted that traditional higher ed can't change curriculum in less than 3 years.
+4. **AI is moving faster than institutions can adapt.** Austin from Gauntlet AI described completely rewriting curriculum every 10 weeks because AI changes that fast. Alpha School compresses a full day of academics into 2 hours of AI-assisted mastery learning, freeing afternoons for project-based life skills. Traditional higher ed, by contrast, can't change curriculum in less than 3 years.
 
 5. **Bipartisan consensus on education is fragile but real.** Former Secretaries of Education Margaret Spellings (R) and Arne Duncan (D) appeared together. Rahm Emanuel called for an "education reset" tied to outcomes. State chiefs from Rhode Island, Virginia, and DC discussed system-level transformation. The civic education sessions showed real concern about democratic participation.
 
@@ -77,7 +77,7 @@ Adeel Khan (MagicSchool AI) pushed back on the idea that AI alone is sufficient.
 
 ### What This Means for Institutions
 
-The question is no longer whether AI tutoring works. It's whether your institution is ready for students who arrive having learned 2-3x faster than your curriculum assumes. The early movers (Alpha School, Speak, Gauntlet) are building the evidence base. Institutions that wait for the evidence to be conclusive will find the evidence was built by their competitors.
+The question is no longer whether AI tutoring works. It's whether your institution is ready for students who arrive having learned 2-3x faster than your curriculum assumes. The early movers (Alpha School, Speak, Gauntlet) are already building the evidence base.
 
 ---
 
@@ -183,11 +183,11 @@ Paula Golden (Broadcom Foundation) and Philip Colligan (Raspberry Pi Foundation)
 
 Based on what I saw at the summit and my meetings:
 
-1. **AI tutoring consolidation.** The space is crowded with companies offering Socratic-method tutoring with similar interfaces and similar claims. The differentiator won't be the tutoring itself. It'll be integration depth with existing LMS infrastructure, subject specificity, and evidence of outcomes.
+1. **AI tutoring is going to consolidate.** The space is crowded with companies offering Socratic-method tutoring with similar interfaces and similar claims. The differentiator won't be the tutoring itself. It'll be integration depth with existing LMS infrastructure, subject specificity, and evidence of outcomes.
 
-2. **Assessment as the next big category.** Conversational assessment (AI-powered oral exams and role-play scenarios) is emerging as a direct response to the "if AI can write, how do you test?" problem. Early, but the need is urgent and underserved. Institutions need alternatives to written assignments now.
+2. **Conversational assessment is the next category to watch.** AI-powered oral exams and role-play scenarios are emerging as a direct response to the "if AI can write, how do you test?" problem. Early, but the need is urgent and underserved. Institutions need alternatives to written assignments now.
 
-3. **Retention going autonomous.** The student retention space is shifting from alert-based systems (flagging at-risk students for human follow-up) toward autonomous action, where AI agents initiate interventions directly. That's the architectural shift this category has needed.
+3. **Student retention is going autonomous.** The space is shifting from alert-based systems (flagging at-risk students for human follow-up) toward AI agents that initiate interventions directly. That's the architectural shift this category has needed.
 
-4. **The instructional design tools maturing.** AI-powered platforms for instructional designers are solving real workflow problems for faculty: course scaffolding, content migration across LMS platforms, FERPA-compliant deployment. This is the "make teachers' lives easier" category Hastings identified.
+4. **Instructional design tools are maturing.** AI-powered platforms for instructional designers are solving real workflow problems for faculty: course scaffolding, content migration across LMS platforms, FERPA-compliant deployment. This is the "make teachers' lives easier" category Hastings identified.
 

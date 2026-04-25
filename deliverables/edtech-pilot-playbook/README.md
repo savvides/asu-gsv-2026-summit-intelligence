@@ -29,15 +29,15 @@ This playbook shares the **filter**, not the verdict. The evaluation methodology
 
 At a recent roundtable with university administrators and EdTech founders, several patterns emerged:
 
-**The sourcing gap.** A VP of Online Learning at a public university: "I don't have time for a full scan of the market. I have a list of things I'm looking to accomplish, and I'm on the hunt for solutions. What I don't have time for is to evaluate everything. The RFP process is a gamble because I don't see the full vendor slate."
+A VP of Online Learning at a public university described the sourcing gap directly: "I don't have time for a full scan of the market. I have a list of things I'm looking to accomplish, and I'm on the hunt for solutions. What I don't have time for is to evaluate everything. The RFP process is a gamble because I don't see the full vendor slate."
 
-**The peer validation signal.** An Innovation Director at a European business school: "If two or three other universities had tested this successfully, that would help me convince my internal stakeholders to take the risk."
+An Innovation Director at a European business school told us what would actually move his decisions: "If two or three other universities had tested this successfully, that would help me convince my internal stakeholders to take the risk."
 
-**The time constraint.** Multiple institutional leaders said their staff are stretched thin. Budget isn't always the barrier. Time to evaluate, integrate, and run a pilot is the real bottleneck, even for products with low institutional requirements.
+Several leaders pointed at time, not money, as the real bottleneck. Their staff are stretched thin. Even for products with low institutional requirements, what they don't have is time to evaluate, integrate, and run a pilot.
 
-**The "dirty pilot."** Several administrators described running lightweight, minimal tests before involving IT or procurement. One said: "Let's not worry about 100% of the tech integration. Let's see if it works. Let's see what our students think. If nobody uses it, nobody wants to use it, we're not going to keep going."
+A few administrators described running lightweight tests before involving IT or procurement. One was candid: "Let's not worry about 100% of the tech integration. Let's see if it works. Let's see what our students think. If nobody uses it, nobody wants to use it, we're not going to keep going."
 
-**The founder perspective.** Founders described relationship-based selling as the only reliable approach at early stage. RFP processes were described as one-sided: non-winners get no feedback, and the cost of preparing a proposal is high relative to the odds. One founder from a math/AI tutoring company said: "If you could do it today, or in two weeks, get some results and feedback, that's better than the probability of $50,000 in six months."
+Founders, for their part, described relationship-based selling as the only reliable approach at early stage. RFP processes are one-sided: non-winners get no feedback, and the cost of preparing a proposal is high relative to the odds. As one founder from a math/AI tutoring company put it: "If you could do it today, or in two weeks, get some results and feedback, that's better than the probability of $50,000 in six months."
 
 ---
 
