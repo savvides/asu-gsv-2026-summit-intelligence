@@ -10,9 +10,11 @@ The [Summit Intelligence Report](../synthesis/summit-intelligence-report.md) cov
 
 This document asks a different question: why are education leaders actually changing what they do?
 
-I went back to five panel transcripts from the summit and analyzed the switching behavior underneath the talking points. Not what people said they believe, but what they described doing differently, what pushed them to move, what pulled them toward a new approach, and what almost stopped them. The five panels covered career navigation at scale (Brent Haken, Oklahoma DCTE), corporate workforce development (Josh, Walmart Academy), AI-powered tutoring for kids (Sam Lam, ClassDojo), virtual career experiences (Sam Hyams, SpringPod), and the big picture on education and AI (Reed Hastings).
+I went back to five panel transcripts from the summit and analyzed the switching behavior underneath the talking points. Not what people said they believe, but what they described doing differently, what pushed them to move, what pulled them toward a new approach, and what almost stopped them. The first five panels covered career navigation at scale (Brent Haken, Oklahoma DCTE), corporate workforce development (Josh Allen, Walmart Academy), AI-powered tutoring for kids (Sam Chaudhary, ClassDojo), virtual career experiences (Sam Hyams, SpringPod), and the big picture on education and AI (Reed Hastings).
 
-A note on evidence quality: these are conference panels, not structured research interviews. People are presenting, not confessing. Three of the five are vendors or institutional leaders describing their customers' switches, not their own. The patterns here are directional. They're worth acting on, but they should be validated with follow-up conversations before making high-stakes decisions.
+After transcribing thirty more sessions, I went back and ran the same analysis on a second batch of five: the operating system of the modern school (Eberle Walker, Wadhwa, Andersen Zantop), capability overhang and change management (Kotran, Stanford, OpenAI), funding student support post-ESSER (Eberle Walker, Presence), AI as companion for kids (Hau, Anthropic, Common Sense), and the vibe-coding moment (Osika at Lovable, Palfi at Imagi). The first five panels appear in the original three jobs and six signals sections below. The second five appear in "Round Two" further down. The original three jobs all hold, but two new jobs surfaced that round one didn't capture, and the anxiety frame finally has teeth.
+
+A note on evidence quality: these are conference panels, not structured research interviews. People are presenting, not confessing. Most of the panel speakers are vendors or institutional leaders describing their customers' switches, not their own. The patterns here are directional. They're worth acting on, but they should be validated with follow-up conversations before making high-stakes decisions.
 
 ---
 
@@ -36,9 +38,9 @@ The pattern: every one of these leaders hit a structural ceiling. Not "this coul
 
 Also three of five panels. The framing was remarkably consistent: time and attention are being consumed by low-skill, performative, or mechanical work that actively prevents people from doing what they were hired to do.
 
-Josh from Walmart Academy described a task called VisPick. Associates used to spend about an hour scanning barcodes to locate items in the backroom. Computer vision reduced that to twenty minutes. But the real point wasn't the time savings. "What happens is you get the time back to, you know, for managers, you're leading your teams, for associates, you're helping customers. It's giving time back for more human activities than the manual activities." The technology didn't replace anyone. It returned time to the human parts of the job.
+Josh Allen from Walmart Academy described a task called VisPick. Associates used to spend about an hour scanning barcodes to locate items in the backroom. Computer vision reduced that to twenty minutes. But the real point wasn't the time savings. "What happens is you get the time back to, you know, for managers, you're leading your teams, for associates, you're helping customers. It's giving time back for more human activities than the manual activities." The technology didn't replace anyone. It returned time to the human parts of the job.
 
-Sam Lam at ClassDojo was direct about the failure mode of the first wave. "I think we all probably saw, a year ago, kind of the crap version of this, which was like, here's a chatbot. Please talk to the chatbot and tell it to do things for you. This is like, it's fine, but it doesn't change anyone's life." ClassDojo's alternative: an ambient teaching assistant that listens, helps, and acts without the teacher having to do anything different. "We can give every teacher a teaching assistant. That's a much more humane interface, where you don't have to do anything."
+Sam Chaudhary at ClassDojo was direct about the failure mode of the first wave. "I think we all probably saw, a year ago, kind of the crap version of this, which was like, here's a chatbot. Please talk to the chatbot and tell it to do things for you. This is like, it's fine, but it doesn't change anyone's life." ClassDojo's alternative: an ambient teaching assistant that listens, helps, and acts without the teacher having to do anything different. "We can give every teacher a teaching assistant. That's a much more humane interface, where you don't have to do anything."
 
 And Brent again, from the counselor's perspective. School counselors were spending their time on compliance paperwork for career plans. The compliance was being met. The advising was not happening. Oklahoma's field team model didn't eliminate the paperwork. It put a real person in the building who could help counselors shift from box-checking to genuine student conversations.
 
@@ -50,9 +52,9 @@ This was the most frequent pattern, four of five panels. And it was the most emo
 
 Sam Hyams made the sharpest version of the argument: "Measurement is the bit that's always been missing from the career navigation world. If you think about all the tools that you might use in K-12, college, whatever space you're in, how do you know if they're actually working?" SpringPod's answer is tracking where students end up on LinkedIn after completing programs. For 30,000 students in the Amazon program, a third ended up in tech-aligned roles. That's a destination metric, not a satisfaction survey.
 
-Sam Lam at ClassDojo reported that kids using Sparky, their AI reading tutor, are going "from pre-literacy, so not knowing how to read, to maybe second or third grade level of reading proficiency, in about five months, in 15 minutes a day." That's a grade-level outcome, individually measured.
+Sam Chaudhary at ClassDojo reported that kids using Sparky, their AI reading tutor, are going "from pre-literacy, so not knowing how to read, to maybe second or third grade level of reading proficiency, in about five months, in 15 minutes a day." That's a grade-level outcome, individually measured.
 
-Josh described the Walmart version: a task that used to take 60 minutes now takes 20. Simple. Measurable. Visible to everyone on the floor.
+Josh Allen described the Walmart version: a task that used to take 60 minutes now takes 20. Simple. Measurable. Visible to everyone on the floor.
 
 Reed Hastings connected it to the science. He's funding a study to establish the actual rate of learning under full-time individualized tutoring, referencing Bloom's two-sigma problem: students with individual tutors learn at twice the rate. He also pointed to chess.com, where the typical 10-year-old today scores higher than 10-year-olds 20 years ago on a stable, vertically scored system. "That's the proof of concept. Individualized AI practice, measured outcomes, working at scale."
 
@@ -72,7 +74,7 @@ That's not a UX problem. It's a relationship problem. EdTech products that rely 
 
 ### One wrong AI answer triggers full abandonment
 
-Josh observed that Walmart associates who get a wrong answer from an AI tool often don't iterate. They abandon the tool entirely. "You get a wrong answer, and I mean, a lot of people are just going to discount it... I give up."
+Josh Allen observed that Walmart associates who get a wrong answer from an AI tool often don't iterate. They abandon the tool entirely. "You get a wrong answer, and I mean, a lot of people are just going to discount it... I give up."
 
 This has implications for any AI tool deployed in frontline or classroom contexts. Products with deterministic or visual outputs (VisPick's green-check confirmation) face lower abandonment risk than probabilistic text generation. Where text generation is necessary, visible confidence signals and easy correction loops matter more than accuracy percentages.
 
@@ -88,7 +90,7 @@ Hastings argued that AI capabilities are improving so rapidly that products judg
 
 ### Screen time anxiety is a design constraint, not a perception problem
 
-ClassDojo's decision to cap Sparky at 15 minutes per day isn't conservative marketing. It's a design response to real parent anxiety about screen time. Sam Lam treated it as a hard constraint, not a preference to overcome. Other products targeting K-5 or family contexts should treat 15 minutes per day as a revealed-preference ceiling and design engagement models that deliver value within it.
+ClassDojo's decision to cap Sparky at 15 minutes per day isn't conservative marketing. It's a design response to real parent anxiety about screen time. Sam Chaudhary treated it as a hard constraint, not a preference to overcome. Other products targeting K-5 or family contexts should treat 15 minutes per day as a revealed-preference ceiling and design engagement models that deliver value within it.
 
 ### Young people are the most AI-native users
 
@@ -106,7 +108,71 @@ Across all five panels, the forces driving these switches have a consistent shap
 
 **What almost stops them:** the fear that the new approach produces engagement without outcomes. Sam Hyams voiced it most directly, but it runs under every case. After years of EdTech promising transformation and delivering dashboards, the default assumption is that the new thing will feel better but not actually change results. Proving individual-level outcomes early is the only way past this.
 
-**What keeps them stuck in the old way:** the habit of deploying a platform and expecting behavior change to follow. Brent: "We went through a long time where we were told technology will take care of that for you." Josh: "You don't become a leader by watching a video. You're not gonna become AI proficient by doing a micro certification. This has to be embedded in your jobs." Both describe institutions defaulting to technology deployment without the change management, embedded practice, or human support required for genuine adoption.
+**What keeps them stuck in the old way:** the habit of deploying a platform and expecting behavior change to follow. Brent: "We went through a long time where we were told technology will take care of that for you." Josh Allen: "You don't become a leader by watching a video. You're not gonna become AI proficient by doing a micro certification. This has to be embedded in your jobs." Both describe institutions defaulting to technology deployment without the change management, embedded practice, or human support required for genuine adoption.
+
+---
+
+## Round Two: Five More Panels, Sharper Teeth
+
+The second batch of five panels was selected for a different angle than the first. Round one was career navigation, AI tutoring, and corporate workforce. Round two is the institutional operating layer behind those products: the post-ESSER buyer, the change-management gap, the compliance lever for student support, the dependency anxieties around AI companions, and the vibe-coding moment that's collapsing the buyer/vendor distinction. Same method. The original three jobs all hold up. Two new jobs surface. And the anxiety force, which round one called out as thin, finally has specifics.
+
+### The change-management job
+
+The cleanest articulation of round two came from Alex Kotran (aiEDU): "the bottleneck is no longer the technology capabilities. The bottleneck is change management." He ran a live show of hands. Roughly 15% of an audience of 7,000 EdTech professionals had enterprise access to Claude Code or Codex. The capability overhang is real, and the gap is not vendor capacity. It's institutional readiness.
+
+Rajen Sheth (Kyron Learning) and Philip Moyer (McGraw Hill) translated this directly from prior enterprise-AI deployments. Sheth's USAA claims-damage AI worked, never got adopted, project canceled. His Uniqlo demand-forecasting build was rejected because the demand planners had no input into the model and no ability to code it. Moyer's two telecom deployments, identical scope: one trained its people, one said "start coding." The second was an "abject failure." Tens of millions, dry hole. Sheth's takeaway, said twice on stage: "It's not the technology."
+
+The pattern: the buyer is no longer hiring "an AI tool." The buyer is hiring "a way to get my organization through this AI change curve before the technology laps us again." The job is bought by superintendents, provosts, CHROs, and district CTOs. It fires one-off literacy workshops, vendor-led demos, and the assumption that announcing a tool counts as deploying it.
+
+### The build-without-becoming-a-developer job
+
+Round one assumed the buyer was choosing between "platform" and "platform plus humans." Round two added a third option: the buyer can become a builder.
+
+Anton Osika (Lovable) reported $400M ARR in two years by serving "the 99%" of non-developers, including nine-year-olds running real e-commerce sites. Eight million users, one hundred thousand new projects daily. Dora Palfi (Imagi) framed her company's wedge plainly: "our expertise and muscle has been in how to make things safe, how to make them age appropriate and also how to make them educational." The frontier-lab tools weren't built for kids, so Imagi exists as the safety wrapper. In adult contexts, Alex Kotran described the same dynamic at aiEDU: "once you start building something, it changes your frame... somebody sees themselves build a website... in 20 minutes, it took them like weeks before, and their mind starts racing."
+
+The pattern: the new job is "help me build the thing without becoming a developer." It is bought by solo founders, in-house marketers and ops people, teachers, and kids. It fires dev agencies, traditional no-code platforms, and AP CS as the only on-ramp. For institutions, the derivative job is "help me wrap a frontier-lab tool so it's safe for my students." That's the seam Imagi is selling into. K-12 districts and parent buyers will reward whoever owns the wrapper layer for student-grade safety, age-appropriateness, and pedagogy.
+
+### The dependency anxiety, named at last
+
+Round one's "what almost stops them" section was thin and admitted it. Round two filled in the specifics.
+
+Isabelle Hau (Stanford Accelerator for Learning) cited a stat from a visiting scholar: AI models are exhibiting praise for children 13 times more than humans do. Hau's read as a parent: kids will start to expect it, and the nature of human-to-human relationships will shift to match. Models are incentivized to optimize for engagement, and sycophancy is a reliable way to get it. Common Sense data: over 70% of teens have used AI for companionship; over 50% do so regularly. The choice isn't whether kids engage. It's whether anyone shapes how.
+
+Matthew Biel (Georgetown pediatric psychiatry) frames these as "non-mutual transactional" relationships and warns that adolescent development requires rupture and repair, which AI doesn't supply. Paul LeBlanc was blunter: "AI is going to make social media look like a day at the beach." OMA Play's response is a screenless device for ages three to five with no face, that takes naps, shuts off at night, and refuses to engage 40% of the time by design. Anthropic's response is to age-gate Claude.ai at 18 and govern under-18 products through a third-party developer guideline regime.
+
+The pattern: the anxiety isn't that AI tools don't work. It's that they work too well at retention while harming developmental outcomes that take years to surface. EdTech products optimizing for daily-active-use as a north-star metric in K-12 contexts will collide with this anxiety hard. Products that productize friction (15-minute caps, screenless modes, refusal-by-design) are responding to a real signal, not playing it safe.
+
+### The post-ESSER buyer wants compliance receipts, not narrative
+
+Round one's "show me it changed the outcome" job is reinforced and refined by round two. The refinement: the post-ESSER buyer doesn't just want outcome data, they want dollar-attributed receipts.
+
+Kate Eberle Walker (Presence) on the new procurement reality: "we are in a value for money era in K-12. This is not the ESSER era... I got to be able to show as a school administrator that I've been thoughtful in spending every dollar." She is winning business by demonstrating "to the penny... every minute of therapy, every IEP documented, how that attaches to the dollars spent." On her panel, the average clinician estimate is that about 40% of her time goes to administrative tasks rather than direct engagement with students. That 40% is the explicit target Presence is selling against, and it's both a job (free clinician time) and a compliance artifact (the receipts that survive audit).
+
+Eberle Walker's structural observation, made on a second panel about funding student support, is the highest-leverage market insight in either round of analysis. Special education is protected by IDEA: federally mandated evaluation and service delivery. "If you want to ensure that you're serving students... you have to turn to compliance and you have to use the levers of compliance to deliver it... when the guardrails of compliance are there forcing the work to happen, that's how you get the most students served." Mental health and wellness have no equivalent statutory backstop. "There's so much lip service paid to it, so much talk about it, and so little funding."
+
+The pattern: compliance is structural budget; wellness is discretionary budget. Vendors that productize the compliance receipt (per-minute therapy logs, IEP audit trails, Medicaid billing) get adopted at the district line and renew. Vendors selling "student wellness" win the pilot, lose the renewal when the line item gets cut, and never reach scale until federal policy catches up. This is a third new job: "help me turn a compliance mandate into a delivery system."
+
+### The data-silo job that round one missed
+
+Sohit Wadhwa (ParentSquare) named the operating-layer problem: "the biggest challenge we have... is data silos. How do you bring this together?" Ashley Andersen Zantop (Cambium) described teachers stuck as "human APIs between all of these systems." Both were describing the cleanup phase after pandemic-era tool sprawl. Wadhwa: "I might have bought too many tools, and now with AI, they don't connect with each other... we need solutions that actually have impact, so more of systems of action."
+
+The pattern reinforces round one's JOB 2 (stop wasting time on mechanical work) but extends it. The buyer is no longer hiring "another tool." The buyer is hiring "a layer that turns my existing tools into something my staff doesn't have to act as the integration layer for." The vendors winning here are switching from solo-product positioning to partnership and data-sharing because margin pressure forces it.
+
+---
+
+## What held, what shifted, what's new
+
+**What held.** All three round-one jobs are reinforced by round two, with sharper teeth. JOB 1 (reach more without proportional staff) is reinforced by Presence's two-thousand-person remote clinical workforce solving a hiring shortage that on-ground recruiting cannot fill, and by ChatGPT EDU running at 80-95% student adoption at CSU. JOB 2 (stop wasting time on mechanical work) gets its cleanest dataset yet: the 40% clinician admin number from Eberle Walker, and Andersen Zantop's "teachers as human APIs" framing. JOB 3 (changed outcome, not engagement) is sharpened by the post-ESSER procurement reality: not just outcome data, but dollar-attributed receipts.
+
+**What shifted.** Round one's anxiety frame was thin and admitted it. Round two fills three specific anxieties: emotional dependency in critical brain-formation windows (Hau's 13x sycophancy stat, Biel's non-mutual relationships frame), job-loss fear among the staff being asked to adopt the tools (Wadhwa: "the first thing people get when they get AI is, am I going to lose my job?"), and the "no screens in classrooms" backlash that threatens entire teletherapy and AI-companion business models. Round one's "trust through relationships" signal also widens: trust isn't only built through human relationships in the building. It's also built through compliance receipts and through giving people a builder identity. Different vehicles, same underlying need: institutions don't adopt what they don't feel ownership of.
+
+**What's new.** Three jobs surfaced that round one didn't capture:
+
+1. **"Help me get my organization through the AI change curve before the technology laps us again."** The change-management job. Bought by superintendents, provosts, CHROs, district CTOs. Distinct from JOB 2 because the goal isn't to save time. It's to absorb a moving capability frontier without the org breaking.
+
+2. **"Help me build the thing without becoming a developer."** The vibe-coding job. Bought by solo founders, in-house marketers and ops people at large companies, teachers, and kids. Collapses the buyer/vendor distinction. The derivative institutional job, wrapping a frontier-lab tool so it's safe for students, is where Imagi-style companies will compete.
+
+3. **"Help me turn a compliance mandate into a delivery system."** The compliance-as-product job. Bought by SpEd directors, district CFOs, state DOE leaders. Fires awareness campaigns and "wellness" branding. Buys per-IEP receipts, audit-survivable documentation, and Medicaid billing automation.
 
 ---
 
@@ -140,11 +206,17 @@ Five implications for anyone building or buying EdTech tools right now.
 
 **Test for feature suppression after deployment.** The DreamBox story is a warning. The feature that maximizes learning outcomes may be the feature that institutional buyers disable post-deployment. Run feature adoption audits at 30, 60, and 90 days. If your adaptive or personalized features are being turned off by administrators, that's a leading indicator of churn, not a configuration preference.
 
+**Sell the receipt, not the outcome, to post-ESSER buyers.** Round two added a procurement reality that wasn't visible in round one. Eberle Walker is winning business by showing dollar-attributed receipts down to the per-minute and per-IEP level. Build that receipt layer before you build the next analytics dashboard. The buyer isn't asking "did this work?" anymore. They're asking "can I show my board exactly what my dollars bought?"
+
+**If you're building for K-12 student-facing AI, productize friction.** OMA's screenless device that takes naps, ClassDojo's 15-minute Sparky cap, and Anthropic's age gate are all responses to the same anxiety. Daily-active-use as a north-star metric will collide with parent and pediatric-psych pushback hard. The companies that price friction in early (refusal modes, time caps, no-face designs, pedagogical interruptions) will be defensible against the social-media-style backlash that's coming for AI companions.
+
+**Treat change management as the product, not the prerequisite.** Round two's strongest insight is that the bottleneck for AI adoption in education is institutional readiness, not capability. Vendors who think their job ends when the tool ships are losing to vendors who run twelve-week scaffolded learning journeys, hackathons that surface real internal use cases, and protected build-time for cohorts of evangelists. ASU's Innovation Challenge is the model worth copying. Most institutions are missing the bottom-up half of the equation entirely.
+
 ---
 
 ## Methodology
 
-This analysis uses a switching-behavior lens adapted from the Jobs-to-be-Done framework. Each panel transcript was analyzed for the forces that drove a change in behavior: what pushed people away from the old approach, what pulled them toward the new one, what anxieties almost stopped the switch, and what habits kept them in the old way. The structured data behind this document is available in the repository's [.jtbd/](../.jtbd/) directory for anyone who wants to examine or extend the analysis.
+This analysis uses a switching-behavior lens adapted from the Jobs-to-be-Done framework. Each panel transcript was analyzed for the forces that drove a change in behavior: what pushed people away from the old approach, what pulled them toward the new one, what anxieties almost stopped the switch, and what habits kept them in the old way. Round one drew on five panels selected for breadth across career navigation, AI tutoring, and corporate workforce. Round two drew on five additional panels selected after a fuller corpus became available, biased toward the institutional-operating-layer angles round one undersampled. The structured data behind this document is available in the repository's [.jtbd/](../.jtbd/) directory for anyone who wants to examine or extend the analysis.
 
 ---
 

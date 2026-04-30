@@ -41,7 +41,7 @@ This report synthesizes sessions selected for their relevance to EdTech innovati
 
 At the 2026 Summit, the debate had clearly shifted from "will AI transform education" to "how fast, and who gets left behind."
 
-**Five signals stood out:**
+**Six signals stood out:**
 
 1. **AI tutoring is no longer experimental.** Reed Hastings argued that the classroom's "sage on the stage" model is the steam engine's power distribution system, and AI tutoring is the individual electric motor. Connor Zwick (Speak) reported 3-5x faster language acquisition with AI tutors. David Rogier (MasterClass) said an education equivalent to a 2-year MBA can now be delivered for $100. The consensus: individualized AI tutoring will become the default within 5 years. It replaces mass lecture, not human connection.
 
@@ -49,9 +49,11 @@ At the 2026 Summit, the debate had clearly shifted from "will AI transform educa
 
 3. **Career navigation is getting rebuilt.** The BrightBound panel revealed that families now pay $50,000 for career coaching, just as they did for college admissions. Julia Dixon (ESAI) is building "narrative intelligence" to help students tell their unique stories. Nick Gross (Find Your Grind) showed a 20% increase in student engagement with an ESSA Tier 2 study. Keely Cat-Wells (Making Space) is closing the disability employment gap, reporting that self-identification of disability doubled after a single employer engagement.
 
-4. **AI is moving faster than institutions can adapt.** Austin from Gauntlet AI described completely rewriting curriculum every 10 weeks because AI changes that fast. Alpha School compresses a full day of academics into 2 hours of AI-assisted mastery learning, freeing afternoons for project-based life skills. Traditional higher ed, by contrast, can't change curriculum in less than 3 years.
+4. **AI is moving faster than institutions can adapt.** Austen from Gauntlet AI described completely rewriting curriculum every 10 weeks because AI changes that fast. Alpha School compresses a full day of academics into 2 hours of AI-assisted mastery learning, freeing afternoons for project-based life skills. Traditional higher ed, by contrast, can't change curriculum in less than 3 years. Alex Kotran (aiEDU) put the finer point on it: "the bottleneck is no longer the technology capabilities. The bottleneck is change management."
 
 5. **Bipartisan consensus on education is fragile but real.** Former Secretaries of Education Margaret Spellings (R) and Arne Duncan (D) appeared together. Rahm Emanuel called for an "education reset" tied to outcomes. State chiefs from Rhode Island, Virginia, and DC discussed system-level transformation. The civic education sessions showed real concern about democratic participation.
+
+6. **AI's effect on student cognition is the unsettled question.** OpenAI's James Donovan argued the model's defaults shape outcomes, and tuned right they produce metacognitive gains. Practitioners disagreed sharply. Ben Riley (Cognitive Resonance) cited Stanford SCALE's review of 800 LLM-in-education studies: 20 showed causal impact, virtually none positive. Larry Berger (Amplify) said every AI implementation he sees is "killing the butterfly," the moment of collective wonder that pollinates the next thousand moments of learning. Institutions that wait for the longitudinal data will be making decisions with a five-year lag. Institutions that deploy now without measurement will be the data.
 
 ---
 
@@ -79,11 +81,17 @@ Adeel Khan (MagicSchool AI) pushed back on the idea that AI alone is sufficient.
 
 The question is no longer whether AI tutoring works. It's whether your institution is ready for students who arrive having learned 2-3x faster than your curriculum assumes. The early movers (Alpha School, Speak, Gauntlet) are already building the evidence base.
 
+### The Anthropomorphism Problem
+
+Isabelle Hau (Stanford Accelerator for Learning) shared a stat from one of her visiting scholars: AI models exhibit praise for children 13 times more than humans do. Her read as a parent: if a model praises my child 13 times more than I do, kids will start to expect it, and the nature of human-to-human relationships shifts to match. The companies, she noted, are incentivized to optimize for engagement, and sycophancy is a reliable way to get it.
+
+Scale makes this urgent. Prateek Maheshwari (Physics Wallah) is running mega-classrooms with 100,000 students in a single live AI-powered session at $40 ARPU, and the student feedback keeps coming back to one line: "AI is not judging us." Anton Osika says Lovable hit $400M ARR in two years by serving "the 99%" of non-developers, including nine-year-olds running real e-commerce sites. Imagi exists as the safety wrapper because the underlying tools weren't built for kids. On the other side, Matthew Biel (Georgetown pediatric psychiatry) frames these as "non-mutual transactional" relationships and warns that adolescent development requires rupture and repair. Paul LeBlanc was blunter: "AI is going to make social media look like a day at the beach." OMA Play's response is a screenless device for ages three to five with no face, that takes naps, shuts off at night, and refuses to engage 40% of the time by design. The product question for tutoring builders: what friction do you build in on purpose, and how do you measure when sycophancy is hurting the learner instead of retaining them?
+
 ---
 
 ## Theme 2: The Assessment Crisis
 
-**Key speakers:** Connor Zwick (Speak), Nick Gross (Find Your Grind), Mackenzie Price (Alpha School), Austin Allred (Gauntlet AI)
+**Key speakers:** Connor Zwick (Speak), Nick Gross (Find Your Grind), Mackenzie Price (Alpha School), Austen Allred (Gauntlet AI)
 
 ### The Problem
 
@@ -123,17 +131,25 @@ Keely Cat-Wells (Making Space) brought the disability lens: 40% of employed disa
 - **Employer pull vs. student push:** SpringPod solves the demand side (employers creating virtual experiences). Find Your Grind solves the supply side (student self-discovery). The market needs both.
 - **Measurement gap:** Sam Hyams made the sharpest point: "Measurement is the bit that's always been missing from the career navigation world." Most tools measure engagement or satisfaction, not whether the student actually got a better job.
 
+### The Credential Glut
+
+James Cryan (Willow Education) put the number on the table: 1.1 million non-degree credentials in circulation, and analysis presented at the panel found only one in eight produces a wage gain. First-generation students, he added, are three times more likely to drop out than to earn a credential of value. The supply side is flooded; the signal-to-noise ratio is broken.
+
+Clayton Lord (SHRM Foundation) named the matching problem on the demand side: "The top five durable skills that employers are looking for are also the five durable skills that have the highest deficits reported by employers among Gen Z." Walmart's response is a fully built-out internal academy with red/green/yellow skills assessment at hire and two-gen scheduling that lets a parent and adult child coordinate shifts to care for a third generation. That works at Walmart's scale. It does not work at the 99.5% of U.S. employers who are small and mid-sized.
+
+The equity tension showed up most sharply in Isabelle Hau's data point on Alpha School: $10,000 per student per year in AI token spend for cloud code and other tools. The 17-year-old "Addison" example illustrates what that buys at the high end. Meanwhile first-gen students are dropping out before they get a credential worth anything. The missing layer is verification: a way for employers to trust durable-skill claims from non-elite pathways without collapsing back to the diploma as the only legible signal. Kate Parsons (CAPS Network) pointed to where it has to start: "identity-first, not career-first," in middle school, before the curiosity collapse the data shows happens after elementary school.
+
 ---
 
 ## Theme 4: EdTech Business and Investment
 
-**Key speakers:** David Rogier (MasterClass), Austin Allred (Gauntlet AI), Michael Moe (GSV), Reed Hastings (Anthropic/Netflix), Sam Hyams (SpringPod), Nick Gross (Find Your Grind)
+**Key speakers:** David Rogier (MasterClass), Austen Allred (Gauntlet AI), Michael Moe (GSV), Reed Hastings (Anthropic/Netflix), Sam Hyams (SpringPod), Nick Gross (Find Your Grind)
 
 ### Market Signals
 
 David Rogier's claim that MBAs outside the top 10 won't exist in 5-10 years is extreme but directional. The MasterClass/Booth/OpenAI 12-week program with 12,000 applicants for 500 slots demonstrates massive demand for compressed, high-quality credentialing.
 
-Austin from Gauntlet AI described a model where the company pays for everything (food, housing, travel) and employers pay upfront to access graduates. Some graduates command salaries near $1 million. The model works because AI engineering talent doesn't exist in traditional pipelines: "It has to be created for the employers."
+Austen from Gauntlet AI described a model where the company pays for everything (food, housing, travel) and employers pay upfront to access graduates. Some graduates command salaries near $1 million. The model works because AI engineering talent doesn't exist in traditional pipelines: "It has to be created for the employers."
 
 ### Advice for Founders
 
@@ -142,6 +158,30 @@ Reed Hastings' advice to EdTech entrepreneurs was split: "If you want to make mo
 Sam Hyams offered practical guidance: "There is no excuse not to have a working prototype now. With vibe coding, you should be able to spin that up quickly." Go straight to the user first, even if the buyer is the district.
 
 Nick Gross on what he looks for when investing: founders who can define outcomes, have validated market need (not assumed it), and understand that EdTech sales cycles are brutal.
+
+### When the Tech Is Ready and the Org Isn't
+
+The most useful frame at the summit came from Alex Kotran (aiEDU): "the bottleneck is no longer the technology capabilities. The bottleneck is change management." He ran a live show of hands in his session. Roughly 15% of the room had enterprise access to Claude Code or Codex. This is an audience of 7,000 EdTech professionals at the largest education conference in the world. Most are still using AI as a "chatbot wrapper," not building anything. The capability overhang is real.
+
+Rajen Sheth (Kyron Learning) and Philip Moyer (McGraw Hill) translated this directly from non-education enterprise AI. Sheth's USAA case: a brilliant claims-damage AI worked, never got adopted, project canceled. The reason was change management. His Uniqlo demand-forecasting build was rejected by the demand planners because they had no input into the model and no ability to code it. Moyer's two telecom deployments, identical scope: one trained its people, one said "start coding." The second was an "abject failure." Tens of millions, dry hole. Sheth's takeaway, said twice: "It's not the technology."
+
+ASU got name-checked as a counter-example. Kevin Weil (OpenAI) cited the ASU Innovation Challenge as the rare top-down-plus-bottom-up case that worked: Crow set the strategic direction, the Innovation Challenge surfaced hundreds of staff, faculty, and student proposals, and the institution funded the ones with traction. That is the model worth copying. Most institutions are missing the bottom-up half entirely.
+
+The Headway/Guild/Age of Learning panel framed AI fluency as "table stakes." Anton Pavlovsky (Headway): computer skills and internet skills used to appear on a CV 20 years ago and now they don't, because they are assumed. AI skills are in that same five-to-ten-year window. The institutions that don't build that fluency now will be uncompetitive when it's no longer a differentiator.
+
+The demand signal is unambiguous. Greg Hart (Coursera) reported one AI-course enrollment every four seconds globally, double the rate from a year ago. Critical-thinking enrollments are up 184% year-over-year. Andrew Ng's ROI argument: bottom-up AI experimentation produces point solutions and incremental savings. The transformative gains require top-down workflow redesign. The demand is there. The question is which institutions absorb it and which keep running pilots.
+
+### The Higher-Ed Value Unwind
+
+Higher ed had its hardest panel of the week. Five sitting and former presidents on stage. Trust in colleges is down 15-18 points from a decade ago. High school graduates going to a two- or four-year school dropped from 7-in-10 to 6-in-10. Roughly one college closes per week. A 15% demographic cliff is coming over the next 18 years. Michael Crow (ASU) named it directly: "We have not delivered on the promise." Eighty years of federal research dollars, no sustained 4-6% growth, the most expensive healthcare in the industrialized world with outcomes outside the top 25. The implicit social contract has frayed.
+
+Jeff Selingo's data is the most concrete signal of what comes next. One college board he advises: full-pay students went from 60% of enrollment to 20% in a decade. Parents will not pay sticker for non-elite prestige anymore. His reporting subject "William" got into Columbia, found out the waitlist for the class he wanted ran to junior year and the professor only worked with grad students, transferred to Minnesota by end of freshman year. His own line: "I was blinded by prestige." That's the generational crack.
+
+The defense came from Jonathan Levin (Stanford) and Rick Levin (Yale), father and son. Rick's prediction: "Yale and Stanford will be here long after Google and Anthropic and OpenAI are gone." Their thesis is that AI in higher ed will play out like MOOCs did: large effects on the labor market, modest effects on institutional structure. Their Stanford political-science faculty member tried to replace grad students with Claude Code, then concluded he needed twice as many grad students because his idea throughput went up. More humanities, more oral exams, more seminars. The elite tier is doubling down, not retreating.
+
+Mark Milliron (National University) is the third path. Average undergrad age 32. 100% working students. Calls them "Anders" because they're not students, they're student-and-parent or student-and-deployed. His critique of the policy stack is sharp: IPEDS measured National's grad rate against 36 first-time-full-time-fall-freshmen out of 50,000 served. He warned the panel against "playing the punch buggy game" of higher-ed-bashing while also calling out the "stranglehold on the futures market." Kathleen deLaski's number landed: 60% of Americans don't have a four-year degree, and the national narrative still says you need one.
+
+Both subsections describe the same lag the report keeps surfacing. The technology is moving in months, the workforce is shifting in quarters, student and parent expectations are flipping in years, and institutional curriculum, funding formulas, and faculty governance still operate on cycles measured in decades. The early movers are not winning because they have better AI. They are winning because they restructured around the new student before the new student showed up. The institutions that wait for the change-management problem to solve itself will discover that the demand has already routed around them.
 
 ---
 
@@ -169,13 +209,49 @@ Greg Lukianoff (FIRE) examined cancel culture, censorship, and open debate on ca
 
 ### The Global AI Access Story
 
-Reed Hastings described a project in Rwanda: one tablet per child, with the goal of making Rwanda "the most successful education state, first in Africa, maybe in the world." His argument: when we figure out software-based AI teaching, sharing it costs almost nothing. A phone in Kibera runs the same OS as a phone in San Francisco.
+Reed Hastings described a project in Rwanda: one tablet per child, with the goal of making Rwanda "the most successful education state, first in Africa, maybe in the world." His argument: "if we can figure out software-based AI teaching that really does all the work, we can share that with the entire world."
 
 Michael Crow (ASU President) and will.i.am discussed AI as "pro-human" in education and work, alongside Sonya Christian (CA Community Colleges Chancellor).
 
 Lisa Gevelber (Grow with Google) explored network effects of AI in higher education, building on Google Career Certificates that have helped over 1 million people upskill.
 
 Paula Golden (Broadcom Foundation) and Philip Colligan (Raspberry Pi Foundation) focused on computing and AI literacy as an access mechanism for STEM education.
+
+### Mental Health and the Compliance Lever
+
+Kate Eberle Walker (Presence) named the structural truth that EdTech founders working in student support need to internalize. Special education services are protected by IDEA, which means evaluation and service delivery are federally mandated. "If you want to ensure that you're serving students and getting them what they really need, you have to turn to compliance and you have to use the levers of compliance to deliver it... when the guardrails of compliance are there forcing the work to happen, that's how you get the most students served."
+
+Mental health and wellness, by contrast, have no equivalent statutory backstop. Eberle Walker on the asymmetry: "There's so much lip service paid to it, so much talk about it, and so little funding." The implication for vendors is direct. Compliance is structural budget; wellness is discretionary budget. Products that solve IEP compliance, evaluation backlogs, and Medicaid billing get adopted at the district line and renew. Products positioned as "student wellness" win the pilot, lose the renewal when the line item gets cut, and never reach scale until federal policy catches up.
+
+---
+
+## Theme 7: AI's Effect on Cognition
+
+**Key speakers:** James Donovan (OpenAI), Ben Riley (Cognitive Resonance), Dan Meyer (Amplify), Larry Berger (Amplify), Kevin Roose (NYT), Casey Newton (Platformer), Omar Abbosh (Pearson)
+
+The most contested theme of the summit. Five sessions wrestled with the same question from different angles: when students offload thinking to a model, what is left of the student? The platform companies and the practitioners were not in the same room on this.
+
+### The Argument
+
+James Donovan, head of learning and cognitive outcomes at OpenAI, argued the question is not whether AI helps cognition but how the model is tuned. With 900 million users and roughly 400 million weekly using ChatGPT for cognitive tasks, his read is that "the model behavior elicits a human behavior, and that human behavior over time ladders up to cognitive outcomes." Tweak the defaults toward pedagogical alignment and you get metacognitive gains. He pointed to a 20,000-student RCT in Estonia with the University of Tartu and Stanford as the model for evidence generation.
+
+A Microsoft executive in a separate session told the story of using a phone-grade model to correctly diagnose a fungal super-infection that two dermatologists had biopsied as eczema. Same executive, separately, used GPT-4 to correctly diagnose the heart condition that killed his father after five physicians missed it. His framing for the room: "activity does not equal outcomes," and the leaders he trains across the country can no longer see more than three to six months ahead.
+
+### The Counterpoint
+
+The practitioner consensus was sharper, and it was not friendly. Ben Riley (Cognitive Resonance) cited Stanford SCALE's review of 800 studies of LLMs in education: 20 showed causal impact, virtually none positive. He named the behavior "cognitive automation," not "cognitive offloading," and pointed to Carnegie Mellon and UCLA work showing "cognitive surrender" once students try to learn without the tool. Sal Khan's own chief learning officer reported students typing "IDK" into Khanmigo rather than engaging.
+
+Dan Meyer (Amplify) made the operational version of the same point. The benchmark he watches is whether kids actually want to talk to a chatbot tutor. It has been flat at roughly 5% for three years. His build philosophy: AI as analytical layer for teachers, never direct-to-student. Joe Davis (KAIT Lab) is using AI-powered infrared pens to surface where students get stuck inside problem sets, preserving productive struggle as the load-bearing element.
+
+Larry Berger (Amplify) gave the most evocative version. The capabilities exist, he said, but every AI implementation he sees is "killing the butterfly," the moment of collective wonder that pollinates the next thousand moments of learning. His board gave him six months to step back from running the company and figure out whether AI can keep the butterfly alive. He doesn't have an answer yet.
+
+Kevin Roose and Casey Newton landed a different data point: a Gallup/Walton/GSV poll of 14-29-year-olds showed hope about AI down 9 points to 18% in one year, with a third of Gen Z AI users reporting anger. Garrett Lord coined the line that stuck: an "agency divide" between people who manage AI and people AI manages. One AI-lab executive told them there are "300 days left of work."
+
+### What This Means for Institutions
+
+The Ben Riley framing is the right frame even if you disagree with his conclusion: we deployed a tool to 500 million students before the longitudinal data exists. Institutions that wait for the RCTs to settle will be making decisions with a five-year lag. Institutions that deploy now without measurement will be the data. Pick your error.
+
+The defensible posture: assume model defaults push toward cognitive automation, not learning. Demand productive friction in the student-facing layer. Invest in teacher capability, not chatbot seats. Omar Abbosh (Pearson) had the cleanest version: "If you use it wrong, you will absolutely get dumber. If you use it right, you can get smarter." The institution's job is enforcing the difference.
 
 ---
 
@@ -190,4 +266,8 @@ Based on what I saw at the summit and my meetings:
 3. **Student retention is going autonomous.** The space is shifting from alert-based systems (flagging at-risk students for human follow-up) toward AI agents that initiate interventions directly. That's the architectural shift this category has needed.
 
 4. **Instructional design tools are maturing.** AI-powered platforms for instructional designers are solving real workflow problems for faculty: course scaffolding, content migration across LMS platforms, FERPA-compliant deployment. This is the "make teachers' lives easier" category Hastings identified.
+
+5. **Vibe-coding is collapsing the buyer/vendor distinction.** Lovable's $400M ARR in two years is the headline number. The bigger signal is what it implies: marketers, ops people, teachers, and nine-year-olds are now building software that used to require a dev shop. The companies that win this category will be the ones who wrap frontier-lab tools with the safety, age-appropriateness, and compliance layer institutions actually need (Imagi for kids; expect district-grade equivalents for K-12 next).
+
+6. **Compliance-anchored student-support vendors will out-scale wellness-anchored ones.** Kate Eberle Walker's framing is the clearest market-structuring insight from the summit. IDEA-mandated services are durable budget. Mental health and wellness without statutory backing get pilots that don't renew. Vendors that productize the compliance receipt (per-minute therapy logs, IEP audit trails, Medicaid billing) will keep scaling. Vendors selling "wellness" as a category will keep stalling at the renewal line.
 
