@@ -35,9 +35,16 @@ def add_paragraph_breaks(text, sentences_per_para=4):
 
 
 def enrich_transcript(filepath, meta):
-    """Add YAML frontmatter and structure to a transcript file."""
+    """Add YAML frontmatter and structure to a transcript file.
+    Skips files that already start with YAML frontmatter — re-enriching a
+    hand-edited transcript would treat its prior headers as transcript body
+    and produce duplicated, garbled headers.
+    """
     with open(filepath, 'r', encoding='utf-8') as f:
         content = f.read()
+
+    if content.startswith('---\n'):
+        return None  # already enriched, leave alone
 
     # Extract original title (first H1)
     title_match = re.match(r'^#\s+(.+)', content)
@@ -127,6 +134,9 @@ for fn in sorted(os.listdir(TRANSCRIPTS_DIR)):
 
     filepath = TRANSCRIPTS_DIR / fn
     title = enrich_transcript(filepath, meta)
+    if title is None:
+        print(f"  SKIP (already enriched): {fn}")
+        continue
     processed += 1
     print(f"  [{processed}] Enriched: {fn}")
 
