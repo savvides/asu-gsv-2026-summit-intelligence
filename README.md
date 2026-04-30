@@ -17,15 +17,15 @@ Transcripts, analysis, and session data from the ASU+GSV Summit 2026 (April 12-1
 
 ## Quick Start
 
-**If you're short on time:** Read the [Summit Intelligence Report](synthesis/summit-intelligence-report.md). It's a 15-minute read covering the 5 biggest signals from the summit.
+**If you're short on time:** Read the [Summit Intelligence Report](synthesis/summit-intelligence-report.md). It's a 20-minute read covering the six biggest signals from the summit, with thematic deep dives on AI tutoring, assessment, career navigation, EdTech investment, policy, equity, and AI's effect on cognition.
 
-**If you want to understand buyer behavior:** Read [Why Education Leaders Are Switching](deliverables/demand-signals.md). It analyzes what's actually driving adoption decisions, drawn from five summit panels.
+**If you want to understand buyer behavior:** Read [Why Education Leaders Are Switching](deliverables/demand-signals.md). It analyzes what's actually driving adoption decisions, drawn from ten summit panels across two rounds of analysis.
 
 **If you want to explore:** Browse the [Full Session Index](schedule/full-session-index.md). Sessions with a 🎙️ have full transcripts. Sessions with ⭐ were flagged as ScaleU-relevant.
 
 **If you want raw data:** The `transcripts/` directory has sessions with YAML frontmatter (speakers, track, tags, dates, YouTube links). The `video-metadata.json` file has structured data for all transcribed sessions.
 
-**If you want to run the tools:** The `tools/` directory has Python scripts for transcription and enrichment. Install dependencies with `pip install -r tools/requirements.txt`. Requires `ffmpeg` for audio processing and an `OPENAI_API_KEY` environment variable.
+**If you want to run the tools:** The `tools/` directory has Python scripts for transcription (`transcribe.py`), enrichment (`enrich-transcripts.py`), and schedule matching (`match-schedule.py`). Install dependencies with `pip install -r tools/requirements.txt`. Requires `ffmpeg` for audio processing and an `OPENAI_API_KEY` environment variable. Override the Whisper model with the `WHISPER_MODEL` env var.
 
 ## About
 
