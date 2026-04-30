@@ -5,7 +5,7 @@ curated from the full ASU+GSV 2026 schedule.
 
 ## ScaleU Priority Sessions
 
-### **HIGH** From Big Tech to EdTech: Harnessing Human Intelligence in the AI Age
+### 🎙️ **HIGH** From Big Tech to EdTech: Harnessing Human Intelligence in the AI Age
 *Wednesday, April 15, 2026, 10:10 am-10:40 am*
 **Speakers:** Philip Moyer (McGraw Hill); Rajen Sheth (Kyron Learning); Adam Freed (Bevel Inc)
 **Signal:** Stage: Building & Investing in EdTech; Tag: Building and Investing in EdTech; edtech; higher education
@@ -110,14 +110,14 @@ curated from the full ASU+GSV 2026 schedule.
 > The capital backing EdTech is changing—and fast. As traditional venture models evolve, a new generation of investors is stepping in: operators-turned-investors, family offices, evergreen funds, strategics, philanthropies, and hybrid capital players with different time horizons, incentives, and defin...
 🔗 [Session page](https://asugsvsummit.com/schedule/the-new-capital-stack-meet-edtech-s-next-generation-of-investors)
 
-### **HIGH** StageX Wednesday Breakfast
+### 🎙️ **HIGH** StageX Wednesday Breakfast
 *Wednesday, April 15, 2026, 8:00 am-9:50 am*
 **Speakers:** Adrián Ridner (Study.com); Arati Prabhakar; Garrett Lord (Handshake); Kumar Garg (Renaissance Philanthropy Fund); Matt Schneider (Google); Omar Abbosh (Pearson); Romy Drucker (Walton Family Foundation); Tade Oyerinde (Campus); Casey Newton (Platformer); Claire Zau (GSV Ventures); Kevin Roose (The New York Times)
 **Signal:** Tag: Building and Investing in EdTech; edtech; workforce learn
 > Welcome from our StageX Host and EmceeLucy Baldwin (VP, Program at GSV Summit) Is AI Eating Education? — A StageX Interview Series with Kevin Roose & Casey Newton (Co-Hosts of Hard Fork, a New York Times podcast) Kevin Roose (New York Times columnist) and Casey Newton (Founder, Platformer) bring the...
 🔗 [Session page](https://asugsvsummit.com/schedule/stagex-wednesday-morning)
 
-### **HIGH** StageX Wednesday Lunch
+### 🎙️ **HIGH** StageX Wednesday Lunch
 *Wednesday, April 15, 2026, 12:00 pm-2:00 pm*
 **Speakers:** Alex Galvagni (Age of Learning); Andrew Ng (DeepLearning.AI); Anton Pavlovsky (Headway Inc); Bijal Shah (Guild); Greg Hart (Coursera); Jeff Selingo (Bestselling Author); John Silvanus Wilson (University of Pennsylvania); Jonathan Eig; Jonathan Levin (Stanford University); Lucy Baldwin (ASU+GSV Summit); Michael Lomax (UNCF); Michael Sorrell (Paul Quinn College); Rick Levin (Yale University); Adam Nordin (Goldman Sachs); Julia Stiglitz (Uplimit); Michael Moe (GSV)
 **Signal:** Tag: Building and Investing in EdTech; edtech; workforce learn
@@ -187,7 +187,7 @@ curated from the full ASU+GSV 2026 schedule.
 > Most institutions have dashboards. Most institutions have predictive models. Most still struggle to translate insight into coordinated action — at the moment it matters most for students. This session tells the story of what happens when a university refuses to accept that gap as inevitable. Walden ...
 🔗 [Session page](https://asugsvsummit.com/schedule/built-for-students-not-for-dashboards-walden-university-s-co-innovation-story)
 
-### **HIGH** From Surveillance to Signal: What Student Writing Behavior Reveals About Learning
+### 🎙️ **HIGH** From Surveillance to Signal: What Student Writing Behavior Reveals About Learning
 *Monday, April 13, 2026, 11:15 am-12:00 pm*
 **Speakers:** Matt Hagerty (Superhuman)
 **Signal:** Tag: Building and Investing in EdTech; edtech; higher education
@@ -201,7 +201,7 @@ curated from the full ASU+GSV 2026 schedule.
 > Operational and administrative efficiency is a top priority for CIOs facing fragmented tech stacks and tight budgets. Join us for this focused 45-minute session to discover how Gemini for Education is designed to complement, not complicate, your existing technology. We will move beyond the "all-or-n...
 🔗 [Session page](https://asugsvsummit.com/schedule/no-migration-needed-integrating-gemini-into-your-institutions-ecosystem)
 
-### **HIGH** Designing Agents for Education
+### 🎙️ **HIGH** Designing Agents for Education
 *Monday, April 13, 2026, 1:00 pm-1:30 pm*
 **Speakers:** Juliano Menegazzo (Microsoft)
 **Signal:** Tag: Building and Investing in EdTech; edtech; workforce learn
@@ -464,7 +464,7 @@ curated from the full ASU+GSV 2026 schedule.
 > AI agents are moving quickly from concept to reality, but real impact depends on how well they fit into daily work. In this session, Arizona State University and Superhuman showcase several AI agents ASU is actively building and deploying across campus. Examples include a course builder, AI companio...
 🔗 [Session page](https://asugsvsummit.com/schedule/innovation-spotlight-ai-agents-built-by-and-for-institutions)
 
-### **HIGH** Innovation Spotlight: Reimagining the writing process in the era of AI
+### 🎙️ **HIGH** Innovation Spotlight: Reimagining the writing process in the era of AI
 *Tuesday, April 14, 2026, 2:00 pm-2:45 pm*
 **Speakers:** Adam Pacton (Arizona State University); Gemma Garcia (Arizona State University); Tal Havivi (Superhuman); Wayne Anderson (Arizona State University)
 **Signal:** innovation spotlight; higher education
@@ -478,7 +478,7 @@ curated from the full ASU+GSV 2026 schedule.
 > RSVP ONLY: Artificial intelligence is rapidly reshaping higher education. The challenge is no longer simply adopting AI tools but redesigning universities to thrive in an AI-driven world. What does it mean to become truly AI-first? This roundtable brings together university leaders and technology in...
 🔗 [Session page](https://asugsvsummit.com/schedule/creating-an-ai-first-university-building-a-culture-of-innovation-fluency-and-measurable-learning)
 
-### **HIGH** The Critical Middle: Scaling Project-Based Career Learning
+### 🎙️ **HIGH** The Critical Middle: Scaling Project-Based Career Learning
 *Tuesday, April 14, 2026, 3:50 pm-4:30 pm*
 **Speakers:** Annalisa Stonner (Blue Springs School District); Courtney Reilly (Skillsline); Kate Parsons (CAPS Network); Renee Ilhardt (International Baccalaureate Organization); Corey Mohn (CAPS Network)
 **Signal:** Stage: Career-Connected Learning & Pathways; scaling
@@ -499,7 +499,7 @@ curated from the full ASU+GSV 2026 schedule.
 > Join AWS and select EdTech leaders for an intimate breakfast roundtable exploring the transformative impact of AI on educational technology modernization. This exclusive session brings together decision-makers from leading EdTech organizations to discuss practical strategies for leveraging AI to enh...
 🔗 [Session page](https://asugsvsummit.com/schedule/the-educator-lens-on-ai-edtech-breakfast-roundtable)
 
-### **HIGH** The Billion-Student Ambition: Scaling Education in the Age of Choice
+### 🎙️ **HIGH** The Billion-Student Ambition: Scaling Education in the Age of Choice
 *Tuesday, April 14, 2026, 9:45 am-10:20 am*
 **Speakers:** Adeel Khan (MagicSchool AI); Greg Hart (Coursera); Prateek Maheshwari (Physics Wallah Limited); Luben Pampoulov (GSV Ventures)
 **Signal:** Stage: StarTrack; scaling
@@ -707,14 +707,14 @@ curated from the full ASU+GSV 2026 schedule.
 > Don't miss the EdUp Experience podcast LIVE at the ASU+GSV Summit!We're recording four episodes across two days covering topics shaping the future, including higher education, AI and the evolving workforce landscape.Be part of the energy, hear from incredible leaders and experts while experiencing i...
 🔗 [Session page](https://asugsvsummit.com/schedule/the-edup-experience-podcast-1)
 
-### **MEDIUM** AI Is Moving Faster Than Learning. How Do We Close the Gap?
+### 🎙️ **MEDIUM** AI Is Moving Faster Than Learning. How Do We Close the Gap?
 *Monday, April 13, 2026, 11:00 am-11:50 am*
 **Speakers:** Carie Addis (Pearson); Sowmya Kannan (IBM)
 **Signal:** workforce learn
 > As AI adoption accelerates across sectors, institutions have a defining opportunity to reimagine how they develop talent and operate to deliver on their mission. The true promise of AI lies not only in efficiency gains, but in strengthening human capability and expanding impact responsibly. This ses...
 🔗 [Session page](https://asugsvsummit.com/schedule/ai-is-moving-faster-than-learning-how-do-we-close-the-gap)
 
-### **MEDIUM** StageX Monday Lunch
+### 🎙️ **MEDIUM** StageX Monday Lunch
 *Monday, April 13, 2026, 12:00 pm-1:50 pm*
 **Speakers:** George Gilder (Discovery Institute); Gina Raimondo (Former US Secretary of Commerce); Greg Lukianoff (Foundation for Individual Rights and Expression); Rebecca Winthrop (Brookings); Victor Riparbelli (Synthesia); Dominic Liechti (Apple); Jorge Elorza (Democrats for Education Reform); Olivia Eve Gross (Studium); Rich Karlgaard (Forbes Asia)
 **Signal:** workforce learn
@@ -763,7 +763,7 @@ curated from the full ASU+GSV 2026 schedule.
 > AI systems now learn, adapt, and improve continuously—often faster than the workforce itself. As people work alongside intelligent systems they can't outpace, organizations must rethink the foundations of learning and talent. This session explores how AI-native platforms that dynamically map skills,...
 🔗 [Session page](https://asugsvsummit.com/schedule/the-ai-agent-era-when-systems-upskill-faster-than-humans)
 
-### **MEDIUM** Designing the AI-Enabled Frontline: Human and Machine at Work
+### 🎙️ **MEDIUM** Designing the AI-Enabled Frontline: Human and Machine at Work
 *Tuesday, April 14, 2026, 11:00 am-11:40 am*
 **Speakers:** Lisa Schumacher (McDonald's Corporation); Raphael Rosenblatt (Workforce Edge); Stephanie Tsales (InStride); Vicki Greene (Pace AI); Ben Pring (Jobs for the Future)
 **Signal:** ai-enabled frontline: human and machine at work workforce learn
@@ -833,7 +833,7 @@ curated from the full ASU+GSV 2026 schedule.
 > Welcome from our StageX Host and EmceeMichael Cohn (Partner, GSV Ventures) What Do Kids Need to Learn in the Age of AI?Scott Cook (Chairman, Executive Committee, Intuit, Valhalla Foundation) Kaya Henderson (Executive Vice President and Executive Director of the Center for Rising Generations, Aspen I...
 🔗 [Session page](https://asugsvsummit.com/schedule/stagex-monday-morning)
 
-### **MEDIUM** Funding the Future of Student Support: Special Needs & Mental Health
+### 🎙️ **MEDIUM** Funding the Future of Student Support: Special Needs & Mental Health
 *Monday, April 13, 2026, 1:40 pm-2:00 pm*
 **Speakers:** John Rogers (TPG's Rise Fund); Kate Eberle Walker (Presence)
 **Signal:** funding; student support
@@ -854,7 +854,7 @@ curated from the full ASU+GSV 2026 schedule.
 > Across the country, educators are beginning to move beyond simply using AI tools and toward designing AI solutions that reflect their own curriculum, students, and priorities. In this interactive lab session, education leaders will start with a light exploration of real AI applications built by scho...
 🔗 [Session page](https://asugsvsummit.com/schedule/from-ai-users-to-ai-designers-build-a-tool-for-your-school-system)
 
-### **MEDIUM** Exposure≠Trust: What Gen Z's Fading Enthusiasm Tells Us About AI in Education and Work
+### 🎙️ **MEDIUM** Exposure≠Trust: What Gen Z's Fading Enthusiasm Tells Us About AI in Education and Work
 *Tuesday, April 14, 2026, 11:30 am-12:15 pm*
 **Speakers:** Abigail Hollingsworth (Bank of America); Claire Zau (GSV Ventures); Jermall Wright (Little Rock School District); Zach Hrynowski (Gallup); Zach Hrynowski (Gallup)
 **Signal:** ai in education
@@ -889,7 +889,7 @@ curated from the full ASU+GSV 2026 schedule.
 > Most institutions are approaching AI with the wrong playbook. Traditional software models—build vs. buy—break down in a world where AI is continuously learning and evolving. Building internally is often too slow, while buying off-the-shelf solutions can lead to rigid systems that fail to adapt. A ne...
 🔗 [Session page](https://asugsvsummit.com/schedule/stop-buying-ai-like-it-s-software-why-co-creation-wins)
 
-### **MEDIUM** FusionX Coffee with Crow
+### 🎙️ **MEDIUM** FusionX Coffee with Crow
 *Monday, April 13, 2026, 8:30 am-10:30 am*
 **Speakers:** Douglas Becker (Cintana Education); Gina Raimondo (Former US Secretary of Commerce); Ju-Ho Lee (Arizona State University); Marie Lynn Miranda (University of Illinois Chicago); Michael M. Crow (Arizona State University); Sayasat Nurbek (Ministry of Science and Higher Education of the Republic of Kazakhstan); Sethuraman Panchanathan (Arizona State University); Todd Altadonna (Arizona State University); will.i.am (FYI.AI, ASU); Jacqueline Smith (Arizona State University)
 **Signal:** higher education
@@ -923,7 +923,7 @@ curated from the full ASU+GSV 2026 schedule.
 > Higher education institutions are sitting on decades of rich, detailed data. Student records, course histories, engagement signals, enrollment outcomes. All of it is scattered across SIS, LMS, and CMS systems that were never designed to talk to each other, let alone to AI.The result is a paradox tha...
 🔗 [Session page](https://asugsvsummit.com/schedule/from-siloed-data-to-agentic-intelligence-how-any-campus-can-deploy-ai-without-starting-over)
 
-### **MEDIUM** Coffee and Conversations with BCG U
+### 🎙️ **MEDIUM** Coffee and Conversations with BCG U
 *Monday, April 13, 2026, 2:10 pm-2:50 pm*
 **Speakers:** Charles Westrin (BCG U)
 **Signal:** workforce learn
@@ -1000,7 +1000,7 @@ curated from the full ASU+GSV 2026 schedule.
 > Universities and research institutions face growing pressure to deliver credible, commercial or policy-relevant research faster - without compromising rigor, transparency, or trust. Learn how Microsoft Fabric and Microsoft Foundry can be used to address common research challenges and workflows from ...
 🔗 [Session page](https://asugsvsummit.com/schedule/accelerating-academic-research-with-ai-agents-and-modern-data-analytics-2)
 
-### **MEDIUM** Code Red: Building a New Future of Work for Workers
+### 🎙️ **MEDIUM** Code Red: Building a New Future of Work for Workers
 *Tuesday, April 14, 2026, 3:00 pm-4:00 pm*
 **Speakers:** Ben Pring (Jobs for the Future); Steve Yadzinski (Jobs for the Future (JFF))
 **Signal:** workforce learn
@@ -1056,7 +1056,7 @@ curated from the full ASU+GSV 2026 schedule.
 > As learning increasingly happens across classrooms, labs, homes, and digital platforms, institutions need a unified approach to designing seamless learning experiences. This session introduces Logitech's "Learning Everywhere" framework, which helps leaders align AV, IT, pedagogy, and space planning ...
 🔗 [Session page](https://asugsvsummit.com/schedule/learning-everywhere-the-digitally-enabled-evolution-of-higher-education-3)
 
-### **MEDIUM** America’s Trusted Talent Data System: An Action Plan
+### 🎙️ **MEDIUM** America’s Trusted Talent Data System: An Action Plan
 *Monday, April 13, 2026, 9:00 am-10:00 am*
 **Speakers:** Alison Gazarek (Intentional Futures); Kristin Hultquist (MSU Denver Board of Trustees); Christopher Mullin (Lumina Foundation)
 **Signal:** workforce learn
@@ -1097,7 +1097,7 @@ curated from the full ASU+GSV 2026 schedule.
 > Join our Entrepreneurs and Investors Reception, presented by Ednition, designed to foster meaningful connections across the Summit startup ecosystem. This gathering offers space for inter-cohort networking, peer exchange, and conversation with investors supporting the next generation of education an...
 🔗 [Session page](https://asugsvsummit.com/schedule/entrepreneurs-and-investors-reception-by-invitation-only)
 
-### **MEDIUM** StageX Tuesday Breakfast
+### 🎙️ **MEDIUM** StageX Tuesday Breakfast
 *Tuesday, April 14, 2026, 8:00 am-9:50 am*
 **Speakers:** Andy Rotherham (Bellwether); Arne Duncan (Emerson Collective); Austen Allred (Gauntlet AI); MacKenzie Price (Alpha School); Margaret Spellings (Bipartisan Policy Center); Michael M. Crow (Arizona State University); Pradeep Khosla (UC San Diego); Rick Hess (American Enterprise Institute); Sian Beilock (Dartmouth); Ben Wallerstein (Whiteboard Advisors); Claire Zau (GSV Ventures); Michel Faliski (Bett USA); Penny Schwinn (TVG)
 **Signal:** higher education
@@ -1166,7 +1166,7 @@ curated from the full ASU+GSV 2026 schedule.
 > Ten Across (10X) sees the Interstate 10 as a model for the future of the United States. The 10X geography is where learners can discover American resilience: this region exemplifies the capacity to adapt, to rebuild, to create and transcend boundaries. When students engage with real-world issues bac...
 🔗 [Session page](https://asugsvsummit.com/schedule/where-learning-lives-transcending-boundaries-through-multimedia-place-based-narrative-learning)
 
-### **MEDIUM** Career-Connected Learning
+### 🎙️ **MEDIUM** Career-Connected Learning
 *Tuesday, April 14, 2026, 3:30 pm-4:05 pm*
 **Speakers:** James Rhyu (Stride); Jamie Candee (Edmentum); Krishna Kumar (Simplilearn); Steve Daly (Instructure); Tony Wan (Reach Capital)
 **Signal:** Stage: StarTrack; career-connect
@@ -1304,20 +1304,20 @@ curated from the full ASU+GSV 2026 schedule.
 > Most institutions are approaching AI with the wrong playbook. Traditional software models—build vs. buy—break down in a world where AI is continuously learning and evolving. Building internally is often too slow, while buying off-the-shelf solutions can lead to rigid systems that fail to adapt. A ne...
 🔗 [Session page](https://asugsvsummit.com/schedule/stop-buying-ai-like-it-s-software-why-co-creation-wins)
 
-### FusionX Coffee with Crow
+### 🎙️ FusionX Coffee with Crow
 *Monday, April 13, 2026, 8:30 am-10:30 am*
 **Speakers:** Douglas Becker (Cintana Education); Gina Raimondo (Former US Secretary of Commerce); Ju-Ho Lee (Arizona State University); Marie Lynn Miranda (University of Illinois Chicago); Michael M. Crow (Arizona State University); Sayasat Nurbek (Ministry of Science and Higher Education of the Republic of Kazakhstan); Sethuraman Panchanathan (Arizona State University); Todd Altadonna (Arizona State University); will.i.am (FYI.AI, ASU); Jacqueline Smith (Arizona State University)
 **ScaleU Relevance:** MEDIUM
 > WelcomeEmcee: Todd Altadonna (Deputy Chief Meetings & Events Officer, ASU) Building A Future Where Everyone Can Work with AIMichael M. Crow (President & Professor of Science & Technology Policy, Arizona State University)Gina Raimondo (Former U.S. Secretary of Commerce, and Governor of Rhode Island) ...
 🔗 [Session page](https://asugsvsummit.com/schedule/fusionx-coffee-with-crow)
 
-### What does the AI bubble mean for education?
+### 🎙️ What does the AI bubble mean for education?
 *Monday, April 13, 2026, 9:00 am-9:40 am*
 **Speakers:** Benjamin Riley (Cognitive Resonance); Lev Gonick (Arizona State University); Norman Atkins (Array Education); Michael Troop (ASU Prep)
 > Explore how ASU is navigating the development and refinement of AI tools. This panel examines how K-12 and higher education leaders examine what's working, what's wishful thinking, and how to build AI strategies that can weather market volatility. What is the peril/promise of AI that will permeate b...
 🔗 [Session page](https://asugsvsummit.com/schedule/what-does-the-ai-bubble-mean-for-education)
 
-### ASU+GSV Opening Ceremonies & Reception presented by Britebound
+### 🎙️ ASU+GSV Opening Ceremonies & Reception presented by Britebound
 *Sunday, April 12, 2026, 4:45 pm-7:00 pm*
 **Speakers:** Anton Osika (Lovable); Dora Palfi (imagi); Claire Zau (GSV Ventures); Julie Lammers (Britebound)
 > Join us for the ASU+GSV Opening Ceremonies & Reception presented by Britebound! Get ready to kick off the summit in style on the pool deck at the 4th Floor Pool Deck of the Manchester Grand Hyatt. 5:00 - 5:30 PM Opening Ceremonies: We will be kicking off with a fireside chat between Anton Osika (co-...
@@ -1361,7 +1361,7 @@ curated from the full ASU+GSV 2026 schedule.
 > Artificial intelligence is reshaping how skills are identified, developed and connected to opportunity. At the same time, global learning platforms and universities now reach tens of millions of learners, creating powerful new pathways between education and employment. As these forces converge, a cr...
 🔗 [Session page](https://asugsvsummit.com/schedule/the-ai-talent-development-engine-who-builds-the-future-workforce)
 
-### Innovation Spotlight: Reimagining the writing process in the era of AI
+### 🎙️ Innovation Spotlight: Reimagining the writing process in the era of AI
 *Tuesday, April 14, 2026, 2:00 pm-2:45 pm*
 **Speakers:** Adam Pacton (Arizona State University); Gemma Garcia (Arizona State University); Tal Havivi (Superhuman); Wayne Anderson (Arizona State University)
 **ScaleU Relevance:** HIGH
@@ -1408,7 +1408,7 @@ curated from the full ASU+GSV 2026 schedule.
 > In an era of predictive analytics, AI copilots, adaptive learning platforms, and algorithmically informed advising, higher education stands at a pivotal moment. The Human Algorithm: Can Technology Advance Student Success Without Replacing the Student? will explore this question from the perspectives...
 🔗 [Session page](https://asugsvsummit.com/schedule/the-human-algorithm-can-technology-advance-student-success-without-replacing-the-student)
 
-### StageX Tuesday Evening & Education Innovation Showcase
+### 🎙️ StageX Tuesday Evening & Education Innovation Showcase
 *Tuesday, April 14, 2026, 4:45 pm-6:40 pm*
 **Speakers:** Geoffrey Canada (Harlem Children's Zone); Joleen Liang (Squirrel Ai Learning); Larry Berger (Amplify); Philip Colligan (Raspberry Pi Foundation); Russlynn Ali (XQ Institute); Sofia Mohammed (Raspberry Pi Foundation); Julia Hieser (GSV Summit); Michel Faliski (Bett USA); Rosa Flores (MS NOW); Tiffany Taylor (ASU+GSV Summit)
 > Welcome from our StageX Host and EmceeMichel Faliski (Event Director, Bett USA) EdTech Hall of Fame AwardHonoree: Larry Berger (CEO, Amplify)Presented by Deborah Quazzo (Co-Founder of ASU+GSV Summit and Managing Partner of GSV Ventures) Learning, AmplifiedLarry Berger (CEO, Amplify)Moderator: Russly...
@@ -1420,7 +1420,7 @@ curated from the full ASU+GSV 2026 schedule.
 > Skills matter, not transcripts. A list of courses and grades tells you almost nothing about what someone can actually do, and the world is catching on. Meanwhile, games have been doing what education keeps promising: real engagement, genuine agency, and assessment so natural it's invisible because i...
 🔗 [Session page](https://asugsvsummit.com/schedule/boss-mode-for-learning-play-games-build-games-end-of-transcript)
 
-### StageX Tuesday Breakfast
+### 🎙️ StageX Tuesday Breakfast
 *Tuesday, April 14, 2026, 8:00 am-9:50 am*
 **Speakers:** Andy Rotherham (Bellwether); Arne Duncan (Emerson Collective); Austen Allred (Gauntlet AI); MacKenzie Price (Alpha School); Margaret Spellings (Bipartisan Policy Center); Michael M. Crow (Arizona State University); Pradeep Khosla (UC San Diego); Rick Hess (American Enterprise Institute); Sian Beilock (Dartmouth); Ben Wallerstein (Whiteboard Advisors); Claire Zau (GSV Ventures); Michel Faliski (Bett USA); Penny Schwinn (TVG)
 **ScaleU Relevance:** MEDIUM
@@ -1473,7 +1473,7 @@ curated from the full ASU+GSV 2026 schedule.
 > You can't pursue every idea, and not every opportunity is worth the investment. This session is designed to help school and district leaders get clear on what actually matters before committing time, money, or momentum. Through a guided working session, we'll use a few proven frameworks to examine y...
 🔗 [Session page](https://asugsvsummit.com/schedule/before-you-invest-getting-clear-on-the-problem)
 
-### StageX Wednesday Lunch
+### 🎙️ StageX Wednesday Lunch
 *Wednesday, April 15, 2026, 12:00 pm-2:00 pm*
 **Speakers:** Alex Galvagni (Age of Learning); Andrew Ng (DeepLearning.AI); Anton Pavlovsky (Headway Inc); Bijal Shah (Guild); Greg Hart (Coursera); Jeff Selingo (Bestselling Author); John Silvanus Wilson (University of Pennsylvania); Jonathan Eig; Jonathan Levin (Stanford University); Lucy Baldwin (ASU+GSV Summit); Michael Lomax (UNCF); Michael Sorrell (Paul Quinn College); Rick Levin (Yale University); Adam Nordin (Goldman Sachs); Julia Stiglitz (Uplimit); Michael Moe (GSV)
 **ScaleU Relevance:** HIGH
