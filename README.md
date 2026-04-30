@@ -11,7 +11,7 @@ Transcripts, analysis, and session data from the ASU+GSV Summit 2026 (April 12-1
 | [ScaleU Sessions](schedule/scaleu-sessions.md) | Sessions flagged as relevant to EdTech validation |
 | [Transcripts](transcripts/) | Full session transcripts with speaker metadata, executive summaries, and key quotes |
 | [Roundtable Memo](deliverables/roundtable-memo.md) | Synthesis from "What If Universities Stopped Running the Same Pilot Twice?" |
-| [Demand Signals](deliverables/demand-signals.md) | Why education leaders are switching -- patterns from five summit panels |
+| [Demand Signals](deliverables/demand-signals.md) | Why education leaders are switching -- patterns from ten summit panels |
 | [EdTech Pilot Playbook](deliverables/edtech-pilot-playbook/) | Evaluation and diagnostic frameworks for EdTech pilots |
 | [Video Metadata](video-metadata.json) | Structured data for all transcribed sessions (speakers, URLs, schedule matches) |
 
