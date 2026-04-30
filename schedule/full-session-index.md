@@ -26,7 +26,7 @@ Sessions marked with ⭐ were flagged as ScaleU-relevant.
 > Raising Our Collective VOICES so ALL PEOPLE Have Equal Access to the Future. @PowerOfWomenSeries Welcome Deborah Quazzo (Co-founder of ASU+GSV Summit & Managing Partner, GSV Ventures) 2:30 - 3:10 PM P...
 🔗 [Session page](https://asugsvsummit.com/schedule/power-of-women-conversation-series)
 
-### ASU+GSV Opening Ceremonies & Reception presented by Britebound
+### 🎙️ ASU+GSV Opening Ceremonies & Reception presented by Britebound
 **4:45 pm-7:00 pm** | Pool Deck, Level 4
 *Reception*
 **Speakers:** Anton Osika (Lovable); Dora Palfi (imagi); Claire Zau (GSV Ventures); Julie Lammers (Britebound)
@@ -266,7 +266,7 @@ Sessions marked with ⭐ were flagged as ScaleU-relevant.
 > Artificial intelligence is accelerating a global shift in how people learn, reshaping education, workplaces, and entire industries. This panel will bring together leaders from learning science, higher...
 🔗 [Session page](https://asugsvsummit.com/schedule/the-global-ai-shift-rewiring-learning-and-work)
 
-### Living and Learning With Aliens: The Complex Psychological Terrain of AI Anthropomorphism
+### 🎙️ Living and Learning With Aliens: The Complex Psychological Terrain of AI Anthropomorphism
 **10:10 am-10:50 am** | Seaport Village Parking Lot
 *Panel | Track: The Prime Time Stage powered by WGU*
 **Speakers:** Ann Wang (University of California, Oma Play); Matthew Biel (Georgetown University Thrive Center for Children, Families and Communities); Rachel Koblic (AI and Education Design Lab); Tanya Gamby (Southern New Hampshire University); Paul LeBlanc (Harvard University Graduate School of Education)
@@ -443,7 +443,7 @@ Sessions marked with ⭐ were flagged as ScaleU-relevant.
 > What is the state of education in California? California State Superintendent of Public Instruction Tony Thurmond and California Community Colleges Chancellor Sonya Christian will offer their reflecti...
 🔗 [Session page](https://asugsvsummit.com/schedule/reflections-on-education-in-california-with-superintendent-tony-thurmond)
 
-### ⭐ StageX Monday Lunch
+### 🎙️ ⭐ StageX Monday Lunch
 **12:00 pm-1:50 pm** | Seaport Ballroom A-E, Level 2
 *Keynote | Track: StageX and FusionX*
 **Speakers:** George Gilder (Discovery Institute); Gina Raimondo (Former US Secretary of Commerce); Greg Lukianoff (Foundation for Individual Rights and Expression); Rebecca Winthrop (Brookings); Victor Riparbelli (Synthesia); Dominic Liechti (Apple); Jorge Elorza (Democrats for Education Reform); Olivia Eve Gross (Studium); Rich Karlgaard (Forbes Asia)
@@ -597,7 +597,7 @@ Sessions marked with ⭐ were flagged as ScaleU-relevant.
 > BCG U helps organizations worldwide build AI capabilities, but how did we apply that expertise to ourselves? Every idea we share is practical and tool-agnostic — walk away with approaches you can put ...
 🔗 [Session page](https://asugsvsummit.com/schedule/the-inside-story-building-ai-capability-inside-a-leading-consulting-firm)
 
-### ⭐ Funding the Future of Student Support: Special Needs & Mental Health
+### 🎙️ ⭐ Funding the Future of Student Support: Special Needs & Mental Health
 **1:40 pm-2:00 pm** | Seaport Village Parking Lot
 *Fireside Chat | Track: The Prime Time Stage powered by WGU*
 **Speakers:** John Rogers (TPG's Rise Fund); Kate Eberle Walker (Presence)
@@ -688,7 +688,7 @@ Sessions marked with ⭐ were flagged as ScaleU-relevant.
 > Book a Beam Demo Here.Join us to learn about Google Beam and the next chapter of human collaboration. We'll explore how Google's breakthrough true-to-life 3D video platform will enable everyone to fee...
 🔗 [Session page](https://asugsvsummit.com/schedule/google-beam-redefining-connection-with-ai-the-shift-to-true-to-life-3d-video-communication)
 
-### Are We in an AI Bubble?
+### 🎙️ Are We in an AI Bubble?
 **2:10 pm-2:50 pm** | Harbor H, Level 2
 *Panel | Track: AI & Frontier Tech*
 **Speakers:** Adam Nordin (Goldman Sachs); Edward Tian (GPTZero); Ernesto Pagano (Boston Consulting Group); John Bailey (AEI); Naomi May (Cooley)
@@ -1137,7 +1137,7 @@ Sessions marked with ⭐ were flagged as ScaleU-relevant.
 > As AI answer engines, algorithmic feeds, and embedded assistants replace traditional search and paid funnels, the growth strategies that powered the last decade of EdTech are no longer enough. This se...
 🔗 [Session page](https://asugsvsummit.com/schedule/last-call-at-the-search-bar-the-new-era-of-edtech-discoverability-in-an-ai-first-world)
 
-### Non-Degree Paths: Hype or Hope?
+### 🎙️ Non-Degree Paths: Hype or Hope?
 **3:50 pm-4:30 pm** | Harbor D, Level 2
 *Panel | Track: Career-Connected Learning & Pathways*
 **Speakers:** Clayton Lord (SHRM Foundation); Erica Bouris (Jobs for the Future); Janelle Duray (Jobs for America's Graduates); Ebony Thomas (Year Up United | Grads of Life)
@@ -1388,7 +1388,7 @@ Sessions marked with ⭐ were flagged as ScaleU-relevant.
 > Higher ed leaders, be sure to visit The Crow's Nest, in Town Square—your exclusive space to connect, collaborate, and recharge. Designed for meaningful conversations and networking, this semi-private ...
 🔗 [Session page](https://asugsvsummit.com/schedule/higher-ed-crow-s-nest-2)
 
-### ⭐ StageX Tuesday Breakfast
+### 🎙️ ⭐ StageX Tuesday Breakfast
 **8:00 am-9:50 am** | Seaport Ballroom A-E, Level 2
 *Keynote | Track: StageX and FusionX*
 **Speakers:** Andy Rotherham (Bellwether); Arne Duncan (Emerson Collective); Austen Allred (Gauntlet AI); MacKenzie Price (Alpha School); Margaret Spellings (Bipartisan Policy Center); Michael M. Crow (Arizona State University); Pradeep Khosla (UC San Diego); Rick Hess (American Enterprise Institute); Sian Beilock (Dartmouth); Ben Wallerstein (Whiteboard Advisors); Claire Zau (GSV Ventures); Michel Faliski (Bett USA); Penny Schwinn (TVG)
@@ -1478,7 +1478,7 @@ Sessions marked with ⭐ were flagged as ScaleU-relevant.
 > What happens when a company built on live teachers deploys AI-powered tutor to its students? In this session, Novakid shares surprising learnings from deploying AI to young learners.These learnings le...
 🔗 [Session page](https://asugsvsummit.com/schedule/ai-for-kids---surprising-learnings-while-deploying-at-novakid)
 
-### ⭐ The Billion-Student Ambition: Scaling Education in the Age of Choice
+### 🎙️ ⭐ The Billion-Student Ambition: Scaling Education in the Age of Choice
 **9:45 am-10:20 am** | Promenade A/B, Level 3
 *Panel | Track: StarTrack*
 **Speakers:** Adeel Khan (MagicSchool AI); Greg Hart (Coursera); Prateek Maheshwari (Physics Wallah Limited); Luben Pampoulov (GSV Ventures)
@@ -1613,7 +1613,7 @@ Sessions marked with ⭐ were flagged as ScaleU-relevant.
 > As AI reshapes the skills landscape, L&D functions face mounting pressure to modernize - faster than ever before. Drawing on BCG's experience advising some of the world's most forward-thinking organiz...
 🔗 [Session page](https://asugsvsummit.com/schedule/designing-for-the-genai-age-global-best-practices-from-leading-l-d-teams)
 
-### Every Student Should Have an AI Learning Companion
+### 🎙️ Every Student Should Have an AI Learning Companion
 **10:10 am-10:50 am** | Seaport Ballroom F-G, Level 2
 *Panel | Track: The Forum*
 **Speakers:** Isabelle Hau (Stanford Accelerator for Learning); Melina Uncapher (SETA-ED); Ryn Linthicum (Anthropic); Ellen Pack (Common Sense Media)
@@ -1719,7 +1719,7 @@ Sessions marked with ⭐ were flagged as ScaleU-relevant.
 📄 [Full transcript](transcripts/28-leading-with-civility-from-hoosier-roots-to-harvard-halls.md)
 🔗 [Session page](https://asugsvsummit.com/schedule/bright-and-early-building-pathways-from-classroom-to-career)
 
-### The Operating System of the Modern School
+### 🎙️ The Operating System of the Modern School
 **10:30 am-11:05 am** | Promenade A/B, Level 3
 *Panel | Track: StarTrack*
 **Speakers:** Ashley Andersen Zantop (Cambium Learning Group); Kate Eberle Walker (Presence); Sohit Wadhwa (ParentSquare); Stephen Sheldon (William Blair)
@@ -1918,7 +1918,7 @@ Sessions marked with ⭐ were flagged as ScaleU-relevant.
 > This session is curated and moderated by Education Strategy Group. The public is questioning the value of college, and an AI-driven economy is shifting workforce demands overnight. How should leaders ...
 🔗 [Session page](https://asugsvsummit.com/schedule/presented-by-esg-the-mobility-engine-transforming-higher-education-for-the-modern-workforce)
 
-### FusionX Tuesday Lunch
+### 🎙️ FusionX Tuesday Lunch
 **12:00 pm-1:50 pm** | Seaport Ballroom F-G, Level 2
 *Keynote | Track: StageX and FusionX*
 **Speakers:** Eric Hanushek (Stanford University); F. Mike Miles (Houston Independent School District); Jeff Edmonson (Ballmer Group Philanthropy); Michael Jabbour (Microsoft); Todd Williams (The Commit Partnership); Anne Wicks (George W. Bush Institute)
@@ -2196,7 +2196,7 @@ Sessions marked with ⭐ were flagged as ScaleU-relevant.
 > Recent federal and legal developments—including the Supreme Court's Students for Fair Admissions decision, heightened Title VI scrutiny, and expanding state-level restrictions on inclusion activities—...
 🔗 [Session page](https://asugsvsummit.com/schedule/reimagining-inclusion-during-pendulum-swings)
 
-### Skills, Degrees, or Both? Making Sense of the Signals We Send Young People
+### 🎙️ Skills, Degrees, or Both? Making Sense of the Signals We Send Young People
 **2:10 pm-2:50 pm** | Harbor D, Level 2
 *Lab/Workshop | Track: Career-Connected Learning & Pathways*
 **Speakers:** Donnell Butler (Prelude); Erica Bouris (Jobs for the Future); James Cryan (Willow Education); Jeff Bulanda (Jobs for the Future); Sheila Saremzadeh (BASTA); Judy Goldstein (Britebound); Julie Kreiss (Britebound)
@@ -2280,7 +2280,7 @@ Sessions marked with ⭐ were flagged as ScaleU-relevant.
 > Kip Glazer, Principal of Mountain View High School, will be signing his book "Ready to Lead with AI: A Practical Guide for School Leaders" at the ASU+GSV Summit!
 🔗 [Session page](https://asugsvsummit.com/schedule/kip-glazer-book-signing)
 
-### What Are the Skills We Will Need to Work?
+### 🎙️ What Are the Skills We Will Need to Work?
 **2:45 pm-3:20 pm** | Promenade A/B, Level 3
 *Panel | Track: StarTrack*
 **Speakers:** Anton Pavlovsky (Headway Inc); David Blake (Degreed); Omar Abbosh (Pearson); Bryan Smilek (JP Morgan)
@@ -2339,7 +2339,7 @@ Sessions marked with ⭐ were flagged as ScaleU-relevant.
 > Too many tools fail—not because of bad technology, but because they weren't designed with educators. This session brings together LEAP Pilot Network school teams, edtech innovators, and R&D partners t...
 🔗 [Session page](https://asugsvsummit.com/schedule/designing-for-what-schools-actually-need-human-centered-r-d-across-ai-edtech-practice)
 
-### Does AI Expand Human Intelligence or Atrophy It?
+### 🎙️ Does AI Expand Human Intelligence or Atrophy It?
 **3:00 pm-3:40 pm** | Seaport Ballroom F-G, Level 2
 *Panel | Track: The Forum*
 **Speakers:** James Donovan (OpenAI); Nataliya Kosmyna (MIT Media Lab); Alex Grodd (The Disagreement)
@@ -2565,7 +2565,7 @@ Sessions marked with ⭐ were flagged as ScaleU-relevant.
 > Building an effective AI tutor isn't just an engineering challenge — it's a pedagogical one. This session explores what it actually takes to design AI that supports how students learn, reason, and bui...
 🔗 [Session page](https://asugsvsummit.com/schedule/teaching-the-machine-to-teach-the-quest-for-a-k-12-ai-tutor)
 
-### ⭐ The Critical Middle: Scaling Project-Based Career Learning
+### 🎙️ ⭐ The Critical Middle: Scaling Project-Based Career Learning
 **3:50 pm-4:30 pm** | Harbor D, Level 2
 *Panel | Track: Career-Connected Learning & Pathways*
 **Speakers:** Annalisa Stonner (Blue Springs School District); Courtney Reilly (Skillsline); Kate Parsons (CAPS Network); Renee Ilhardt (International Baccalaureate Organization); Corey Mohn (CAPS Network)
@@ -2670,7 +2670,7 @@ Sessions marked with ⭐ were flagged as ScaleU-relevant.
 > Join Vocareum CEO Sanjay Srivastava and Seshashayee (Sesh) Murthy (Halıcıoğlu Data Science Institute, UC San Diego) for an exclusive, closed-door look at a full quarter of real AI tutoring outcome dat...
 🔗 [Session page](https://asugsvsummit.com/schedule/when-ai-tutoring-delivers-evidence-from-uc-san-diego)
 
-### StageX Tuesday Evening & Education Innovation Showcase
+### 🎙️ StageX Tuesday Evening & Education Innovation Showcase
 **4:45 pm-6:40 pm** | Seaport Ballroom A-E, Level 2
 *Keynote | Track: StageX and FusionX*
 **Speakers:** Geoffrey Canada (Harlem Children's Zone); Joleen Liang (Squirrel Ai Learning); Larry Berger (Amplify); Philip Colligan (Raspberry Pi Foundation); Russlynn Ali (XQ Institute); Sofia Mohammed (Raspberry Pi Foundation); Julia Hieser (GSV Summit); Michel Faliski (Bett USA); Rosa Flores (MS NOW); Tiffany Taylor (ASU+GSV Summit)
@@ -2722,7 +2722,7 @@ Sessions marked with ⭐ were flagged as ScaleU-relevant.
 > Higher ed leaders, be sure to visit The Crow's Nest, in Town Square—your exclusive space to connect, collaborate, and recharge. Designed for meaningful conversations and networking, this semi-private ...
 🔗 [Session page](https://asugsvsummit.com/schedule/higher-ed-crow-s-nest-3)
 
-### ⭐ StageX Wednesday Breakfast
+### 🎙️ ⭐ StageX Wednesday Breakfast
 **8:00 am-9:50 am** | Seaport Ballroom A-E, Level 2
 *Keynote | Track: StageX and FusionX*
 **Speakers:** Adrián Ridner (Study.com); Arati Prabhakar; Garrett Lord (Handshake); Kumar Garg (Renaissance Philanthropy Fund); Matt Schneider (Google); Omar Abbosh (Pearson); Romy Drucker (Walton Family Foundation); Tade Oyerinde (Campus); Casey Newton (Platformer); Claire Zau (GSV Ventures); Kevin Roose (The New York Times)
@@ -2848,7 +2848,7 @@ Sessions marked with ⭐ were flagged as ScaleU-relevant.
 > Explore what AI literacy looks like in practice through a live demonstration of the Raspberry Pi Foundation's Experience AI program. This suite of free K-12 classroom resources helps educators and you...
 🔗 [Session page](https://asugsvsummit.com/schedule/the-experience-ai-model-building-k-12-systemwide-capacity-2026-5)
 
-### Agile or Fragile…Are Universities Stuck in the Year 2000?
+### 🎙️ Agile or Fragile…Are Universities Stuck in the Year 2000?
 **10:10 am-10:50 am** | Seaport Ballroom F-G, Level 2
 *Panel | Track: The Forum*
 **Speakers:** Ebony Thomas (Year Up United | Grads of Life); John Katzman (Noodle Partners, PBC.); Kathleen deLaski (Education Design Lab); Mark Milliron (National University); Diego Arambula (Carnegie Foundation for the Advancement of Teaching)
@@ -2898,7 +2898,7 @@ Sessions marked with ⭐ were flagged as ScaleU-relevant.
 > Remember the bubble sheet? For decades, innovation in summative assessment has lagged behind innovation in instruction, in part because of the significant role it plays in shaping student progression ...
 🔗 [Session page](https://asugsvsummit.com/schedule/evolving-assessments-in-the-age-of-ai)
 
-### ⭐ From Big Tech to EdTech: Harnessing Human Intelligence in the AI Age
+### 🎙️ ⭐ From Big Tech to EdTech: Harnessing Human Intelligence in the AI Age
 **10:10 am-10:40 am** | Promenade A/B, Level 3
 *Fireside Chat | Track: Building & Investing in EdTech*
 **Speakers:** Philip Moyer (McGraw Hill); Rajen Sheth (Kyron Learning); Adam Freed (Bevel Inc)
@@ -3032,7 +3032,7 @@ Sessions marked with ⭐ were flagged as ScaleU-relevant.
 > Over the past two years, the launch of generative AI has sparked a surge of innovation across education. Institutions are inundated with AI-powered tools and agentic systems promising personalization,...
 🔗 [Session page](https://asugsvsummit.com/schedule/building-human-centric-curriculum-with-ai-and-immersive-tech-in-a-machine-driven-era)
 
-### Durable Skills + AI Fluency: Preparing Youth for the Future of Work
+### 🎙️ Durable Skills + AI Fluency: Preparing Youth for the Future of Work
 **11:00 am-11:40 am** | Harbor D, Level 2
 *Panel | Track: Career-Connected Learning & Pathways*
 **Speakers:** Alex Kotran (The AI Education Project (aiEDU)); Isabelle Hau (Stanford Accelerator for Learning); John Branam (Bottom Line); Komal Dadlani (Lab4U); Zarek Drozda (Data Science 4 Everyone); Lisa Dughi (NAF)
@@ -3060,7 +3060,7 @@ Sessions marked with ⭐ were flagged as ScaleU-relevant.
 > The future of work is evolving fast—and education must evolve with it. National University empowers learners at every career stage with the human and technical skills needed to succeed in today's dyna...
 🔗 [Session page](https://asugsvsummit.com/schedule/from-preparation-to-progress-building-a-future-ready-workforce)
 
-### Is AI Amplifying Cognition or Dismantling It?
+### 🎙️ Is AI Amplifying Cognition or Dismantling It?
 **11:00 am-11:40 am** | Seaport Ballroom F-G, Level 2
 *Panel | Track: The Forum*
 **Speakers:** Benjamin Riley (Cognitive Resonance); Dan Meyer (Amplify); Joseph Davis (Ready For Mathematics and KAITLab); Joseph Wise (Distinctive Schools); Diane Tavenner (Futre.me)
@@ -3158,7 +3158,7 @@ Sessions marked with ⭐ were flagged as ScaleU-relevant.
 > For decades, digital assessment has provided a binary function: right or wrong.AI completely changes that.New AI-first assessment tools can analyze reasoning, highlight evidence, generate targeted fee...
 🔗 [Session page](https://asugsvsummit.com/schedule/assessment-reimagined-how-ai-helps-diagnose-thinking-not-just-answers)
 
-### ⭐ StageX Wednesday Lunch
+### 🎙️ ⭐ StageX Wednesday Lunch
 **12:00 pm-2:00 pm** | Seaport Ballroom A-E, Level 2
 *Keynote | Track: StageX and FusionX*
 **Speakers:** Alex Galvagni (Age of Learning); Andrew Ng (DeepLearning.AI); Anton Pavlovsky (Headway Inc); Bijal Shah (Guild); Greg Hart (Coursera); Jeff Selingo (Bestselling Author); John Silvanus Wilson (University of Pennsylvania); Jonathan Eig; Jonathan Levin (Stanford University); Lucy Baldwin (ASU+GSV Summit); Michael Lomax (UNCF); Michael Sorrell (Paul Quinn College); Rick Levin (Yale University); Adam Nordin (Goldman Sachs); Julia Stiglitz (Uplimit); Michael Moe (GSV)
