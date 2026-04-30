@@ -13,6 +13,7 @@ from openai import OpenAI
 INPUT_DIR = Path("gsv-presentations")
 OUTPUT_DIR = Path("transcripts")
 MAX_SIZE_MB = 24  # Stay under 25MB API limit
+MODEL = os.environ.get("WHISPER_MODEL", "whisper-1")
 API_KEY = os.environ["OPENAI_API_KEY"]
 
 client = OpenAI(api_key=API_KEY)
@@ -65,7 +66,7 @@ def transcribe_file(filepath: str) -> str:
             print(f"    Chunk {i+1}/{len(chunks)}...", flush=True)
         with open(chunk, "rb") as f:
             response = client.audio.transcriptions.create(
-                model="whisper-1",
+                model=MODEL,
                 file=f,
                 response_format="text"
             )
