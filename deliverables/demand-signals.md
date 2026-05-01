@@ -220,6 +220,12 @@ This analysis uses a switching-behavior lens adapted from the Jobs-to-be-Done fr
 
 ---
 
+## About ScaleU
+
+ScaleU is the EdTech validation program at ASU Enterprise Partners. We partner with founders to run paid pilots inside ASU and generate the kind of individual-level outcome evidence and dollar-attributed receipts that institutional buyers increasingly demand. The model is paid pilot work plus 1% equity in exchange for ASU access and the evidence base early-stage EdTech companies cannot produce on their own.
+
+More on the program at [scaleu.org](https://scaleu.org).
+
 Philippos Savvides
 Head of ScaleU, ASU Enterprise Partners
 philippos.savvides@asuep.org

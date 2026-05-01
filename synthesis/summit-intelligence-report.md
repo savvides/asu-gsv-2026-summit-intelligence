@@ -259,15 +259,27 @@ The defensible posture: assume model defaults push toward cognitive automation, 
 
 Based on what I saw at the summit and my meetings:
 
-1. **AI tutoring is going to consolidate.** The space is crowded with companies offering Socratic-method tutoring with similar interfaces and similar claims. The differentiator won't be the tutoring itself. It'll be integration depth with existing LMS infrastructure, subject specificity, and evidence of outcomes.
+1. **AI tutoring is going to consolidate.** The space is crowded with companies offering Socratic-method tutoring with similar interfaces and similar claims. The differentiator won't be the tutoring itself. It'll be integration depth with existing LMS infrastructure, subject specificity, and evidence of outcomes. *What would prove it:* a wave of LMS-incumbent acquisitions of standalone tutoring companies in the next 12-18 months. Standalones raising $1B+ rounds as independents would falsify it.
 
-2. **Conversational assessment is the next category to watch.** AI-powered oral exams and role-play scenarios are emerging as a direct response to the "if AI can write, how do you test?" problem. Early, but the need is urgent and underserved. Institutions need alternatives to written assignments now.
+2. **Conversational assessment is the next category to watch.** AI-powered oral exams and role-play scenarios are emerging as a direct response to the "if AI can write, how do you test?" problem. Early, but the need is urgent and underserved. Institutions need alternatives to written assignments now. *What would prove it:* a top-50 university or a state DOE specifying oral-exam or role-play assessment tooling in a 2026-2027 procurement cycle. Without an RFP-grade signal, the category stays stuck in pilot purgatory.
 
-3. **Student retention is going autonomous.** The space is shifting from alert-based systems (flagging at-risk students for human follow-up) toward AI agents that initiate interventions directly. That's the architectural shift this category has needed.
+3. **Student retention is going autonomous.** The space is shifting from alert-based systems (flagging at-risk students for human follow-up) toward AI agents that initiate interventions directly. That's the architectural shift this category has needed. *What would prove it:* a sustained two- to three-point first-year retention lift in 2026-2027 cohorts at institutions running agentic intervention versus alert-based systems. Anything below one point means the alerts were already doing the work.
 
-4. **Instructional design tools are maturing.** AI-powered platforms for instructional designers are solving real workflow problems for faculty: course scaffolding, content migration across LMS platforms, FERPA-compliant deployment. This is the "make teachers' lives easier" category Hastings identified.
+4. **Instructional design tools are maturing.** AI-powered platforms for instructional designers are solving real workflow problems for faculty: course scaffolding, content migration across LMS platforms, FERPA-compliant deployment. This is the "make teachers' lives easier" category Hastings identified. *What would prove it:* a 30% or greater reduction in faculty hours per course-build, sustained across two to three semesters at deploying institutions. Single-cohort wins followed by shelfware would mean deeper integration is still missing.
 
-5. **Vibe-coding is collapsing the buyer/vendor distinction.** Lovable's $400M ARR in two years is the headline number. The bigger signal is what it implies: marketers, ops people, teachers, and nine-year-olds are now building software that used to require a dev shop. The companies that win this category will be the ones who wrap frontier-lab tools with the safety, age-appropriateness, and compliance layer institutions actually need (Imagi for kids; expect district-grade equivalents for K-12 next).
+5. **Vibe-coding is collapsing the buyer/vendor distinction.** Lovable's $400M ARR in two years is the headline number. The bigger signal is what it implies: marketers, ops people, teachers, and nine-year-olds are now building software that used to require a dev shop. The companies that win this category will be the ones who wrap frontier-lab tools with the safety, age-appropriateness, and compliance layer institutions actually need (Imagi for kids; expect district-grade equivalents for K-12 next). *What would prove it:* a wrapper company winning three or more state-level K-12 contracts in the next 18 months. If districts go direct to frontier tools or block them entirely, the wrapper thesis is too thin to defend.
 
-6. **Compliance-anchored student-support vendors will out-scale wellness-anchored ones.** Kate Eberle Walker's framing is the clearest market-structuring insight from the summit. IDEA-mandated services are durable budget. Mental health and wellness without statutory backing get pilots that don't renew. Vendors that productize the compliance receipt (per-minute therapy logs, IEP audit trails, Medicaid billing) will keep scaling. Vendors selling "wellness" as a category will keep stalling at the renewal line.
+6. **Compliance-anchored student-support vendors will out-scale wellness-anchored ones.** Kate Eberle Walker's framing is the clearest market-structuring insight from the summit. IDEA-mandated services are durable budget. Mental health and wellness without statutory backing get pilots that don't renew. Vendors that productize the compliance receipt (per-minute therapy logs, IEP audit trails, Medicaid billing) will keep scaling. Vendors selling "wellness" as a category will keep stalling at the renewal line. *What would prove it:* a renewal-rate asymmetry over 24 months, with IDEA-anchored vendors holding above 90% district renewal while wellness-branded vendors stay below 60%. The asymmetry shows up at renewal, not at the initial pilot win.
+
+---
+
+## About ScaleU
+
+ScaleU is the EdTech validation program at ASU Enterprise Partners. We partner with founders to run paid pilots inside ASU and generate the kind of individual-level outcome evidence and dollar-attributed receipts that institutional buyers increasingly demand. The model is paid pilot work plus 1% equity in exchange for ASU access and the evidence base early-stage EdTech companies cannot produce on their own.
+
+More on the program at [scaleu.org](https://scaleu.org).
+
+Philippos Savvides
+Head of ScaleU, ASU Enterprise Partners
+philippos.savvides@asuep.org
 
